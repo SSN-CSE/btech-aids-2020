@@ -25,7 +25,7 @@ finding the Joint probabilities and correlation between them
 
 {{{unit}}}
 |UNIT I|RAMDAM VARIABLES|12| 
-Probability -- Axioms of probability -- Conditional probability -- Bayes theorem-- Discrete and 
+Probability -- Axioms of probability -- Conditional probability -- Discrete and 
 continuous random variables -- Moments -- Moment generating functions -- Binomial, Poisson, 
 Geometric, Uniform, Exponential, Gamma, Nor- mal distributions -- Functions of a random 
 variable.

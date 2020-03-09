@@ -1,0 +1,54 @@
+* <<<206>>> DATA STRUCTURES LAB
+:properties:
+:author: Ms. M. Saritha and Dr. B. Prabavathy
+:date: 
+:end:
+
+#+startup: showall
+
+{{{credits}}}
+| L | T | P | C |
+| 0 | 0 | 4 | 2 |
+
+** COURSE OBJECTIVES
+- To implement ADTs in Python
+- To design and implement linear data structures -- lists, stacks, and
+  queues
+- To implement sorting, searching and hashing algorithms
+- To solve problems using tree and graph structures
+
+** EXCERCISE
+1. Implement simple ADTs as Python classes
+2. Implement recursive algorithms in Python
+3. Implement List ADT using Python arrays
+4. Linked list implementations of List
+5. Implementation of Stack and Queue ADTs
+6. Applications of List, Stack and Queue ADTs
+7. Implementation of sorting and searching algorithms
+8. Implementation of Hash tables
+9. Tree representation and traversal algorithms
+10. Implementation of Binary Search Trees
+11. Implementation of Heaps
+12. Graph representation and Traversal algorithms
+13. Implementation of single source shortest path algorithm
+14. Implementation of minimum spanning tree algorithms
+
+** COURSE OUTCOMES
+At the end of the course, the student should be able to:
+- Implement ADTs as Python classes
+- Design, implement, and analyse linear data structures, such as
+  lists, queues, and stacks, according to the needs of different
+  applications
+- Design, implement, and analyse efficient tree structures to meet
+  requirements such as searching, indexing, and sorting
+- Model problems as graph problems and implement efficient graph
+  algorithms to solve them
+
+\hfill *Total Periods: 60*
+
+** LABORATORY REQUIREMENT FOR BATCH OF 25 STUDENTS
+Hardware:\\
+    1. Standalone Systems - 25 Nos 
+Software:\\
+    1. Python
+      

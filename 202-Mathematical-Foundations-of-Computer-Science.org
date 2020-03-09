@@ -1,0 +1,69 @@
+* <<<CS2>>> MATHEMATICS FOR COMPUTER SCIENCE
+:properties:
+:author: Dr. S. Sheerazuddin and Dr. R. S. Milton
+:date: 29 February 2020
+:end:
+
+#+startup: showall
+
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
+
+** COURSE OBJECTIVES
+- To learn how to read, write and analyze mathmatical proofs.
+- To learn the basic discrete structures used to model and analyze
+  computer systems.
+- To understand the basic concepts of combinatorics and number theory.
+- To learn the usage of generating functions and recurrences.
+
+{{{unit}}}
+|UNIT I|PROOFS & LOGIC|10|
+What is a Proof? -- The Well Ordering Principle -- Logical
+Formulas -- Induction -- State Machines.
+
+{{{unit}}}
+|UNIT II|SETS & DATA TYPES |10|
+Mathematical Data Types -- Recursive Data Types -- Infinite
+Sets.
+
+{{{unit}}}
+|UNIT III|STRUCTURES|10|
+Directed graphs & Partial Orders -- Communication Networks --
+Simple Graphs -- Planar Graphs.
+
+{{{unit}}}
+|UNIT IV|NUMBER THEORY & COUNTING|8|
+Number Theory -- Sums and Asymptotics -- Cardinality Rules.
+
+{{{unit}}}
+|UNIT V|GENERATING FUNCTIONS & RECURRENCES|7|
+Generating Functions -- Recurrences.
+
+\hfill *Total Periods: 45*
+
+** COURSE OUTCOMES
+After the completion of this course, students will be able to: 
+- Comprehend and analyze mathematical proofs. (K4)
+- Explicate and apply the various discrete structures. (K3)
+- Explicate and apply the principles of counting and number theory. (K3)
+
+
+** TEXT BOOKS
+1. Eric Lehman, F. Thomson Leighton & Albert R Meyer, ``Mathematics
+   for Computer Science'', 12th Media Services, 2017.
+2. Ralph P. Grimaldi, ``Discrete and Combinatorial Mathematics - An
+   Applied Introduction'', Pearson, 5th Edition, 2017
+3. Kenneth Rosen, ``Discrete Mathematics and its Applications'',
+   McGrawHill, 8th Edition, 2018
+
+** REFERENCES
+1. Uwe Schoning, ``Logic for Computer Scientists'', Birkhauser, 1994
+2. Ronald L. Graham, Donald E. Knuth & Oren Patashnik, ``Concrete
+   Mathematics: A Foundation for Computer Science'', Addison-Wesley
+   Professional, 2nd Edition, 1994
+3. MIT Open Course Ware, MIT Course Number 6.042J/18.062J,
+   https://ocw.mit.edu/courses/
+   electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm
+
+

@@ -1,0 +1,78 @@
+* <<<203>>> DATA STRUCTURES
+:properties:
+:author: Ms. M. Saritha and Dr. B. Prabavathy
+:date: 
+:end:
+
+#+startup: showall
+
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
+
+
+** COURSE OBJECTIVES
+- To understand the concepts of ADTs
+- To design linear data structures – lists, stacks, and queues
+- To understand sorting, searching and hashing algorithms
+- To apply Tree and Graph structures
+
+{{{unit}}}
+| UNIT I | ABSTRACT DATA TYPES | 10 |
+Abstract Data Types (ADTs) – ADTs and classes – introduction to OOP –
+classes in Python – inheritance – namespaces – shallow and deep
+copying Introduction to analysis of algorithms – asymptotic notations
+– recursion – analyzing recursive algorithms
+
+{{{unit}}}
+| UNIT II | LINEAR DATA STRUCTURES | 8 |
+List ADT – array-based implementations – linked list implementations –
+singly linked lists – circularly linked lists – doubly linked lists –
+applications of lists – Stack ADT – Queue ADT – double ended queues
+
+
+{{{unit}}}
+| UNIT III | SORTING AND SEARCHING   | 9 |
+Bubble sort – selection sort – insertion sort – merge sort – quick
+sort – linear search – binary search – hashing – hash functions –
+collision handling – load factors, rehashing, and efficiency
+
+
+{{{unit}}}
+| UNIT IV | TREE STRUCTURES | 9 |
+Tree ADT – Binary Tree ADT – tree traversals – binary search trees –
+AVL trees – heaps – multi-way search trees
+
+
+{{{unit}}}
+| UNIT V | GRAPH STRUCTURES | 9 |
+Graph ADT – representations of graph – graph traversals – DAG –
+topological ordering – shortest paths – minimum spanning trees
+
+\hfill *Total Periods: 45*
+
+** COURSE OUTCOMES
+After the completion of this course, students will be able to:
+- Explain abstract data types
+- Design, implement, and analyse linear data structures, such as
+  lists, queues, and stacks, according to the needs of different
+  applications
+- Design, implement, and analyse efficient tree structures to meet
+  requirements such as searching, indexing, and sorting
+- Model problems as graph problems and implement efficient graph
+  algorithms to solve them.
+       
+** TEXT BOOKS
+1. Michael T Goodrich, Roberto Tamassia, Michael H Goldwasser, ``Data
+   Structures & Algorithms in Python'', John Wiley & Sons Inc, 2013
+
+** REFERENCES
+1. Rance D Necaise, ``Data Structures and Algorithms Using Python'',
+   John Wiley & Sons, 2011
+2. Mark Allen Weiss, ``Data Structures and Algorithm Analysis in C++''
+   Fourth Edition, Pearson Education, 2014
+3. Open Data Structures (in pseudocode), Pat Morin
+
+
+
+

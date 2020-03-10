@@ -54,13 +54,13 @@ After the completion of this course, students will be able to:
 
 ** REFERENCES
 
-1.Bradley N Miller and David L. Ranum, ``Problem Solving with Algorithms and Data Structures Using Python'', Franklin, Beedle &     
+1. Bradley N Miller and David L. Ranum, ``Problem Solving with Algorithms and Data Structures Using Python'', Franklin, Beedle &     
   Associates; 2nd edition, 2011
-2.Rance D Necaise, ``Data Structures and Algorithms Using Python'', John Wiley & Sons, 2011
-3.Don Sheehy, ``A Course in Data Structures and Object-Oriented Design'', https://donsheehy.github.io/datastructures/fullbook.pdf
+2. Rance D Necaise, ``Data Structures and Algorithms Using Python'', John Wiley & Sons, 2011
+3. Don Sheehy, ``A Course in Data Structures and Object-Oriented Design'', https://donsheehy.github.io/datastructures/fullbook.pdf
 4. Pat Morin, ``Open Data Structures (in pseudocode)''
-5.Basant Agarwal, Benjamin Baka, ``Hands-On Data Structures and Algorithms with Python'', Packt Publishing; 2 edition, 2018
-6.Narasimha Karumanchi, ``Data Structure and Algorithmic Thinking with Python'', Career Monk, 2015
+5. Basant Agarwal, Benjamin Baka, ``Hands-On Data Structures and Algorithms with Python'', Packt Publishing; 2 edition, 2018
+6. Narasimha Karumanchi, ``Data Structure and Algorithmic Thinking with Python'', Career Monk, 2015
 
 
 

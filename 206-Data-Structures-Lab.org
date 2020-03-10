@@ -16,7 +16,7 @@
 -	Learn hashing table, sets, maps and heaps
 
 
- ** SUGGESTIVE EXPERIMENTS
+** SUGGESTIVE EXPERIMENTS
  
 1.	Writing simple Python programs using objects
 2.	Writing recursive functions(e.g.recursive function that takes a string like “abcdefgh” and returns “badcfehg”)

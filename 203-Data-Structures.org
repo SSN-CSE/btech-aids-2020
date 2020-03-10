@@ -34,7 +34,7 @@ Heaps: Heap data structure, Implementing a priority queue with a heap, Array bas
 | UNIT V | NON LINEAR DATA STRUCTURES – GRAPHS| 8 |
 Graphs: Graph ADT, Data structures for graphs, Graph traversals, Directed acyclic graph: Toplogical ordering; Shrotest paths:Dijkstra's algorithm; Minimum spanning tree: Kruskal's algorithm
 
-\hfill *Total Periods: 45*
+*Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to:

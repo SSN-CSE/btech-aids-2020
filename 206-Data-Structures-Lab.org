@@ -1,54 +1,55 @@
 * <<<206>>> DATA STRUCTURES LAB
 :properties:
-:author: Ms. M. Saritha and Dr. B. Prabavathy
+:author: Dr. R. Kanchana and Dr. B. Bharathi
 :date: 
 :end:
 
 #+startup: showall
 
-{{{credits}}}
+
 | L | T | P | C |
-| 0 | 0 | 4 | 2 |
+| 0 | 0 | 3 | 1.5 |
 
 ** COURSE OBJECTIVES
-- To implement ADTs in Python
-- To design and implement linear data structures -- lists, stacks, and
-  queues
-- To implement sorting, searching and hashing algorithms
-- To solve problems using tree and graph structures
+-	Understand and apply suitable data structures, linear and nonlinear 
+-	Understand the concepts and differences in searching and sorting techniques 
+-	Learn hashing table, sets, maps and heaps
 
-** EXCERCISE
-1. Implement simple ADTs as Python classes
-2. Implement recursive algorithms in Python
-3. Implement List ADT using Python arrays
-4. Linked list implementations of List
-5. Implementation of Stack and Queue ADTs
-6. Applications of List, Stack and Queue ADTs
-7. Implementation of sorting and searching algorithms
-8. Implementation of Hash tables
-9. Tree representation and traversal algorithms
-10. Implementation of Binary Search Trees
-11. Implementation of Heaps
-12. Graph representation and Traversal algorithms
-13. Implementation of single source shortest path algorithm
-14. Implementation of minimum spanning tree algorithms
+
+ ** SUGGESTIVE EXPERIMENTS
+ 
+1.	Writing simple Python programs using objects
+2.	Writing recursive functions(e.g.recursive function that takes a string like “abcdefgh” and returns “badcfehg”)
+3.	Implement and compare sorting algorithms (e.g. Write a program that times the quicksort, the merge sort, and the built-in sort algorithms in Python to discover which one is better and to see their relative speeds)
+4.	Implement  a circular queue using linked list.
+5.	Implement a stack using linked list (e.g.Infix evaluator program)
+6.	Implement binary search (e.g. build a PyList or just a Python list of values, sorts them, and then looks up random values within the list)
+7.	Implement circular doubly linked list (e.g. implement Josephus problem)
+8.	Implement binary tree and its traversal algorithms(e.g. Form an expression tree using input prefix expression, get postfix and infix forms, evaluate the expression)
+9.	Implement binary search tree operations.(e.g. Telephone directory)
+10.	Implement AVL trees
+11.	Implement priority queue using binary heaps (e.g. Storing employee records based upon salary)
+12.	Implement set operations
+13.	Implement map opearations ( e.g. Mailing list prepation)
+14.	Implement hash table operations (e.g tic-tae-toe )
+15.	Graph representation and implement graph traversal algorithm.
+16.	Implement Dijkstra’s algorithm using graph (e.g. Find the shortest route to connect one city to another) 
+
 
 ** COURSE OUTCOMES
 At the end of the course, the student should be able to:
-- Implement ADTs as Python classes
-- Design, implement, and analyse linear data structures, such as
-  lists, queues, and stacks, according to the needs of different
-  applications
-- Design, implement, and analyse efficient tree structures to meet
-  requirements such as searching, indexing, and sorting
-- Model problems as graph problems and implement efficient graph
-  algorithms to solve them
+- Implement linear data structures to solve the given problem(K3)
+- Implement nonlinear data structures and use them for various applications (K3)
+- Analyze a problem statement and suggest an appropriate linear/ nonlinear data structure for solving it (K4)
+- Implement sorting and searching algorithms(K3)
+- Implement hash table, sets and maps and use them (K3). 
 
-\hfill *Total Periods: 60*
 
-** LABORATORY REQUIREMENT FOR BATCH OF 25 STUDENTS
+*Total Periods: 45*
+
+** LABORATORY REQUIREMENT FOR BATCH OF 30 STUDENTS
 Hardware:\\
-    1. Standalone Systems - 25 Nos 
+    1. Standalone Systems - 30 Nos 
 Software:\\
     1. Python
       

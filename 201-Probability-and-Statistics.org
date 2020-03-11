@@ -15,74 +15,84 @@ NIL
 |3|0|0|3|
 
 ** COURSE OBJECTIVES
-- To identify the standard distributions and apply them in solving problems 
-- To understand the concept of two-dimensional randomvariables and solve problems in 
-finding the Joint probabilities and correlation between them 
--  To perform hypothesis testing using normal, t-distribution and F-distribution 
--  To evaluate the tests of significance in analysis of variance 
--  To calculate the various statistical quality control measurements.
+- To provide the fundamental concepts of probability and random
+  variable
+- To learn different statistical methods needed for data analysis.
+- To introduce some standard distributions applicable to engineering
+- To understand the basic concepts in two dimensional random variables
+- To understand the basic concepts of random processes which are
+  widely used in engineering.
 
 
 {{{unit}}}
-|UNIT I|RAMDAM VARIABLES|12| 
-Probability -- Axioms of probability -- Conditional probability -- Discrete and 
-continuous random variables -- Moments -- Moment generating functions -- Binomial, Poisson, 
-Geometric, Uniform, Exponential, Gamma, Nor- mal distributions -- Functions of a random 
-variable.
+|UNIT I| PROBABILITY THEORY|12| 
+Probability, axioms, laws of probability, total probability, Bayes'
+Theorem, random variables, distribution functions, density and mass
+functions.
 
 {{{unit}}}
-|UNIT II|TWO-DIMENSIONAL RANDOM VARIABLES|12| 
-Joint distributions -- Marginal and conditional distributions -- Covariance -- Correlation and 
-linearregression -- Transformation of random variables -- Central limit theorem (for independent 
-and identically distributed random variables).
+| UNIT II | STATISTICAL AVERAGES | 12 |
+Mathematical expectation of a random variable, properties of
+expectation, variance, moments, moment generating function.
 
 {{{unit}}}
-|UNIT III|TESTS OF SIGNIFICANCE|12| 
-Sampling distributions -- Small andlargesample test  -- Test basedon Normal and  tdistribution 
-(Single and difference of meanand proportion)--  x2-- Test for goodness of fit, Independence of 
-attributes- F test for variance.
+| UNIT III | PROBABILITY DISTRIBUTIONS | 12 |
+Bernoulli, Binomial, Poisson, Multinomial, Uniform, exponential and
+Gaussian distributions, central limit theorem (for independent and
+identically distributed random variables).
 
 {{{unit}}}
-|UNIT IV|DESIGN OF EXPERIMENTS|12| 
-Completely randomized design -- Randomized block design -- Latin square de- sign -- 
-Factorialdesign.
+|UNIT IV|TWO-DIMENSIONAL RANDOM VARIABLES|12| 
+Joint distribution, marginal distribution, conditional distribution,
+joint density function, marginal density function, conditional density
+function, conditional distribution, covariance, correlation
+coefficient, regression lines.
 
 {{{unit}}}
-|UNIT V|STATISTICAL QUALITY COTROL|12| 
-Control charts for measurements (X and R charts) -- Control charts for
-attributes(p, c and npcharts) -- Tolerance limits -- Acceptance
-sampling.
-
+| UNIT V | RANDOM PROCESSES | 12 |
+Definition, Classification, Stationary Process, Autocorrelation,
+Markov chain-transition probability matrix-Chapmann Kolmogorov
+equation (without proof)-Limiting distribution
 
 \hfill *Total Periods: 60*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Identify standard distributions and apply them 
-- Solve problems in two-dimension random variables and find the
-  correlation between them
-- Identify andapply the suitable testing of hypothesis under normal
-  and t and F distribution
-- Solve problems in analysis of variance
-- Analyze quality control by applying control chart methods.
+- CO1: Understand the fundamental concepts of probability and random
+  variable
+- CO2: Apply the various statistical methods needed to analyze the
+  given data
+- CO3: Have knowledge of standard distributions which can describe
+  real life phenomenon.
+- CO4: Understand the basic concepts two dimensional random variables
+  and apply in engineering applications.
+- CO5: Apply the concept of random processes in data analysis.
 
 ** TEXT BOOKS
-1. Milton J S and Arnold J C, ``Introduction to Probability and
-   Statistics'', 4th Edition,3rd Reprint, Tata McGrawHill, 2008.
-2. JohnsonR A and Gupta C B, ``Miller and Freund's Probability and
-   Statistics for Engineers'', 8th Edition,Pearson Education, 2011.
+1. Gupta S C, Kapoor V K, ``Fundamentals of Mathematical
+   Statistics'', 11th Edition, Sultan Chand and Sons, 2007
+2. T Veerarajan, ``Probability, Statistics and Random Processes'',
+   Tata McGraw Hill Company, Third Edition
 
 ** REFERENCES
-1. Devore J L, ``Probability and Statistics for Engineering and the
-   Sciences'', 7th Edition,ThomsonBrooks/Cole, International Student
-   Edition,2008.
-2.  Walpole R E, Myers R H, Myers S L, Ye K, ``Probability and
-   Statistics for Engineers and Scientists'', 8th Edition,Pearson
-   Education, Asia, 2007.
-3. Ross S M, ``Introduction to Probability and Statistics for
-   Engineers and Scientists'', 3rd Edition,Elsevier, 2004.
-4. Spiegel M R, Schiller J, Srinivasan R A, ``Schaum's Outline of
-   Theory and Problems of Probability and Statistics'', Tata
-   McGrawHill, 2004.
-5. Gupta S C, KapoorV K, ``Fundamentals of Mathematical Statistics'',
-   Sultan and Chand Company, 2009.
+1. George Casella, Roger L Berger, ``Statistical Inference'', Second
+   Edition, Duxbury Advanced Series, Australia; Thomson
+   Learning, 2002.
+2. Spiegel M R, Schiller J, Srinivasan R A, ``Schaum's Outline of
+   Theory and Problems of Probability and Statistics'', Tata McGraw
+   Hill Edition, 2004.
+3. Yates R D, Goodman D J, ``Probability and Stochastic Processes'',
+   Wiley India, 2nd Edition, 2012.
+4. Walpole R E, Myers R H, Myers S L, Ye K, ``Probability and
+   Statistics for Engineers and Scientists'', Pearson Education, Asia,
+   8th Edition, 2007.
+5. Papoulis A, Unnikrishnapillai S, ``Probability, Random Variables
+   and Stochastic Processes'', McGraw Hill Education India, 4th
+   Edition, New Delhi, 2010.
+6. Johnson R A, Miller I, Freund J, ``iller and Freund's Probability
+   and Statistics for Engineers'', Pearson Education, Asia, 8th
+   Edition, 2015.
+6. Milton J S, Arnold J C, ``Introduction to Probability and
+   Statistics'', Tata McGraw Hill, 4th Edition, 2007.
+7. Rohatgi V K, Saleh A K, Md E, ``An Introduction to Probability and
+   Statistics'', 2nd Edition, John Wiley and Sons, 2009

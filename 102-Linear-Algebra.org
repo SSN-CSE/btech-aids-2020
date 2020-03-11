@@ -1,0 +1,82 @@
+* <<<106>>> LINEAR ALGEBRA
+:properties:
+:author: R S Milton
+:date: 5 Feb 2020
+:end:
+
+#+startup: showall
+
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
+		
+** COURSE OBJECTIVES
+- To test the consistency and solve system of linear equations
+- To find the basis and dimension of vector space
+- To obtain the matrix of linear transformation and its eigenvalues
+  and eigenvectors
+- To find orthonormal basis of inner product space and find least
+  square approximation
+- To find eigenvalues of a matrix using numerical techniques and
+  perform matrix decomposition
+
+{{{unit}}}
+| UNIT I | MATRICES AND SYSTEM OF EQUATIONS | 12 |
+Matrices -- row echelon form rank -- system of linear
+equations-consistency-Gauss elimination method-Gauss Jordan method
+
+{{{unit}}}
+| UNIT II | VECTOR SPACES | 12 |
+Semigroup, group, ring, field (Definitions and examples) -- vector
+space-subspace-linear independence and dependence-basis and dimension
+
+{{{unit}}}
+| UNIT III | LINEAR TRANSFORMATION | 12 |
+Linear transformation-rank space and null space -rank and
+nullity-dimension theorem-matrix representation of linear
+transformation-eigenvalues and eigenvectors of linear transformation
+
+{{{unit}}}
+| UNIT IV | INNER PRODUCT SPACES | 12 |
+Inner product and norms -- properties-orthogonal, orthonormal
+vectors-Gram Schmidt orthonormalization process -Least square
+approximation
+
+{{{unit}}}
+| UNIT V | EIGEN VALUE PROBLEMS AND MATRIX DECOMPOSITION | 12 |
+Eigen value Problems: Power method, Jacobi rotation method-Singular
+value decomposition -- QR decomposition
+
+
+\hfill *Total Hours:45*
+
+** COURSE OUTCOMES
+After the completion of this course, students will be able to:
+- test the consistency and solve system of linear equations
+- find the basis and dimension of vector space
+- obtain the matrix of linear transformation and its eigenvalues and
+  eigenvectors
+- find orthonormal basis of inner product space and find least square
+  approximation
+- find eigenvalues of a matrix using numerical techniques and perform
+  matrix decomposition
+
+** TEXT BOOKS
+1. Friedberg A H, Insel A J, Spence L, ``Linear Algebra'', Prentice
+   Hall of India, New Delhi, 2004
+2. Faires J D, Burden R, ``Numerical Methods'', Brooks/Cole (Thomson
+   Publications), New Delhi, 2002.
+
+** REFERENCES
+1. Kumaresan S, ``Linear Algebra -- A Geometric Approach'', Prentice
+   Hall of India, New Delhi, Reprint, 2010.
+2. Strang G, ``Linear Algebra and its Applications'', Thomson
+   (Brooks/Cole), New Delhi, 2005.
+3. Gerald C F, Wheatley P O, ``Applied Numerical Analysis'', Pearson
+   Education, New Delhi, 2002.
+4. Sundarapandian V, ``Numerical Linear Algebra'', Prentice Hall of
+   India, New Delhi, 2008.
+5. Bernard Kolman, David R Hill, ``Introductory Linear Algebra'',
+   Pearson Education, New Delhi, First Reprint, 2009.
+3. Richard Branson, ``Matrix Operations'', Schaum's outline
+   series, 1989.

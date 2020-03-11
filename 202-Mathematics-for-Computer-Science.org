@@ -1,4 +1,4 @@
-* <<<CS2>>> MATHEMATICS FOR COMPUTER SCIENCE
+* <<<202>>> MATHEMATICS FOR COMPUTER SCIENCE
 :properties:
 :author: Dr. S. Sheerazuddin and Dr. R. S. Milton
 :date: 29 February 2020

@@ -1,4 +1,4 @@
- <<<S2>>> Foundations of Data Science 
+* <<<205>>> FOUNDATIONS OF DATA SCIENCE 
 :properties:
 :author: Dr. T. T. Mirnalinee and Ms. S. Rajalakshmi
 :date: 

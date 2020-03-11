@@ -1,13 +1,10 @@
-* <<<207>>> DIGITAL LAB
+* <<<207>>> DIGITAL DESIGN LAB
 :properties:
-:author:Dr. D. V. V. Prasad and Mr. K. R. Sarath Chandran
+:author: Dr. D. V. V. Prasad and Mr. K. R. Sarath Chandran
 :date: 
 :end:
 
-#+begin_comment
-
-#+end_comment
-
+#+startup: showall
 
 {{{credits}}}
 | L | T | P |   C |

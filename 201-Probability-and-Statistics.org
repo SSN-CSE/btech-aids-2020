@@ -1,4 +1,4 @@
-* <<<S2>>> PROBABILITY AND STATISTICS
+* <<<201>>> PROBABILITY AND STATISTICS
 :properties:
 :author:  Dr P Venugopal and Dr R S Milton
 :date: 
@@ -59,10 +59,11 @@ sampling.
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Identify standard distributions and apply them 
-- Solve problems in two-dimension random variables and find the correlation between 
-them 
-- Identify andapply the suitable testing of hypothesis under normal and t and F distribution 
-- Solve problems in analysis of variance 
+- Solve problems in two-dimension random variables and find the
+  correlation between them
+- Identify andapply the suitable testing of hypothesis under normal
+  and t and F distribution
+- Solve problems in analysis of variance
 - Analyze quality control by applying control chart methods.
 
 ** TEXT BOOKS

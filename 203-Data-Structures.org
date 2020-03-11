@@ -13,54 +13,87 @@
 
 ** COURSE OBJECTIVES
 - To understand the concept of ADT 
--	To comprehend the notion of linear and nonlinear data structures 
--	To solve problems using suitable data structures  
--	To understand the different types of sorting and selection techniques 
--	To learn data structures like hash tables, heaps, sets and maps
+- To comprehend the notion of linear and nonlinear data
+  structures
+- To solve problems using suitable data structures
+- To understand the different types of sorting and selection
+  techniques
+- To learn data structures like hash tables, heaps, sets and maps
 
-
+{{{unit}}}
 | UNIT I | INTRODUCTION | 9 |
-Python programming: Calling methods on objects, Implementing a class, operator overloading; Computational Complexity: Big-Oh notation; Recursion: Scope, Runtime time stack and heap, Designing, analysing and tracing a recursive function, linear recursion, Binary recursion
+Python programming: Calling methods on objects, Implementing
+a class, operator overloading; Computational Complexity:
+Big-Oh notation; Recursion: Scope, Runtime time stack and
+heap, Designing, analysing and tracing a recursive function,
+Linear recursion, Tree recursion.
 
-| UNIT II | LINEAR DATA STRUCTURES – SEQUENCES	 | 10 |
-LList ADT: Array operations, selection sort, merge sort, quick sort; Stacks and Queues; Linked list: Singly linked list, Implementing a stack and queue with singly linked list; Circular linked list – Round robin schedulers; Doubly linked list-Dequeue; Positional list ADT; Link-based vs. Array-based sequences
+| UNIT II | LINEAR DATA STRUCTURES -- SEQUENCES	 | 10 |
+List ADT: Array operations, selection sort, mergesort,
+quicksort; Stacks and Queues; Linked list: Singly linked
+list, Implementing a stack and queue with singly linked list;
+Circular linked list: Round robin schedulers; Doubly linked
+list: Dequeue; Positional list ADT; Link-based vs Array-based
+sequences.
 
-| UNIT III | NON LINEAR DATA STRUCTURES – TREES   | 9 |
-Binary trees: Tree ADT, Properties, Implementing trees, Traversal algorithms, Expression trees; Binary search tree ADT, Operations: Search, Insert, Delete; AVL trees; Splay trees
+| UNIT III | NON-LINEAR DATA STRUCTURES -- TREES  | 9 |
+Tree ADT: Binary trees, Properties, Implementing trees,
+Traversal algorithms, Expression trees; Binary search tree
+ADT: Operations -- Search, Insert, Delete; AVL trees; Splay
+trees.
 
-| UNIT IV | LINEAR DATA STRUCTURES -  MAPS AND SETS | 9 |
-Heaps: Heap data structure, Implementing a priority queue with a heap, Array based representation, Heap construction and operations – Heap sort; Maps and Dictionaries: Map ADT, Implementation, counting word frequencies using maps; Hash table: Hash functions, Collision handling schemes, Rehashing, Implementation; Set: Set ADT, Operations, Implementation
+| UNIT IV | LINEAR DATA STRUCTURES -- PRIORITY QUEUES, MAPS AND SETS | 9 |
+Priority Queue ADT: Heap data structure, Implementing a priority queue
+with a heap, Array based representation, Heap construction
+and operations, Heap sort; Maps and Dictionaries: Map ADT,
+Implementation; Hash table: Hash functions, Collision
+handling schemes, Rehashing, Implementation; Set: Set ADT,
+Operations, Implementation
+# counting word frequencies using maps
 
 | UNIT V | NON LINEAR DATA STRUCTURES – GRAPHS| 8 |
-Graphs: Graph ADT, Data structures for graphs, Graph traversals, Directed acyclic graph: Toplogical ordering; Shrotest paths:Dijkstra's algorithm; Minimum spanning tree: Kruskal's algorithm
+Graphs: Graph ADT, Data structures for graphs, Graph
+traversals, Directed acyclic graph: Toplogical ordering;
+Shrotest paths:Dijkstra's algorithm; Minimum spanning tree:
+Kruskal's algorithm.
 
-*Total Periods: 45*
+\hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to:
-
-- write simple and recursive algorithms and analyse their complexities(K3)
-- Develop applications using sequences, stack, queue and linked list (K3) 
-- Implement the operations of binary tree, binary search tree and balanced trees (K3) 
-- Solve problems using data structures such as heaps, hash tables, maps and sets(K3)
--	Develop applications using graph algorithms (K3)
+- write simple and recursive algorithms and analyse their
+  complexities (K3)
+- Develop applications using sequences, stack, queue and linked list
+  (K3)
+- Implement the operations of binary tree, binary search tree and
+  balanced trees (K3)
+- Solve problems using data structures such as heaps, hash tables,
+  maps and sets(K3)
+- Develop applications using graph algorithms (K3)
 
        
 ** TEXT BOOKS
-
-1. Kent D. Lee, Steve Hubbard, ``Data Structures and Algorithms with Python'', Springer, 2015
+1. Kent D. Lee, Steve Hubbard, ``Data Structures and Algorithms with
+   Python'', Springer, 2015
 2. Michael T Goodrich, Roberto Tamassia, Michael H Goldwasser, ``Data
    Structures & Algorithms in Python'', John Wiley & Sons Inc, 2013
 
 ** REFERENCES
-
-1. Bradley N Miller and David L. Ranum, ``Problem Solving with Algorithms and Data Structures Using Python'', Franklin, Beedle &     
-  Associates; 2nd edition, 2011
-2. Rance D Necaise, ``Data Structures and Algorithms Using Python'', John Wiley & Sons, 2011
-3. Don Sheehy, ``A Course in Data Structures and Object-Oriented Design'', https://donsheehy.github.io/datastructures/fullbook.pdf
+1. Bradley N Miller and David L. Ranum, ``Problem Solving with
+   Algorithms and Data Structures Using Python'', Franklin, Beedle &
+   Associates; 2nd edition, 2011
+2. Rance D Necaise, ``Data Structures and Algorithms Using Python'',
+   John Wiley & Sons, 2011
+3. Don Sheehy, ``A Course in Data Structures and Object-Oriented
+   Design'', https://donsheehy.github.io/datastructures/fullbook.pdf
 4. Pat Morin, ``Open Data Structures (in pseudocode)''
-5. Basant Agarwal, Benjamin Baka, ``Hands-On Data Structures and Algorithms with Python'', Packt Publishing; 2 edition, 2018
-6. Narasimha Karumanchi, ``Data Structure and Algorithmic Thinking with Python'', Career Monk, 2015
+5. Basant Agarwal, Benjamin Baka, ``Hands-On Data Structures and
+   Algorithms with Python'', Packt Publishing; 2 edition, 2018
+6. Narasimha Karumanchi, ``Data Structure and Algorithmic Thinking
+   with Python'', Career Monk, 2015
+7. Mark Allen Weiss, ``Data Structures and Algorithm Analysis
+   in C++, Fourth Edition, Pearson Education, 2014
+
 
 
 

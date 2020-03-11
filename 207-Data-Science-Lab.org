@@ -7,6 +7,7 @@
 #+startup: showall
 
 #+begin_comment
+#+end_comment
 
 {{{credits}}}
 | L | T | P | C |
@@ -22,11 +23,8 @@
 - To explore the algorithms used for analysing massive data problems
   and social networks
 - To learn about visualization. 
-#+end_comment
 
-
-#+startup: showall
-
+Suggestive List of Experiments:
 1. Programs using Lists and Dictionaries
 2. Programs to work with python libraries for data science
    1. Working with Numpy arrays
@@ -57,15 +55,10 @@ After the completion of this course, students will be able to:
 #+end_comment
  
 ** TEXT BOOKS
-1. Davy Cielen, Arno D B Meysman, Mohamed Ali, ``Introducing Data
-   Science -- Big data, Machine Learning, and more using Python
-   tools'', Manning Publications Co, 2016. (Unit I)
-2. Laura Igual, Santi Segua­, ``Introduction to Data Science -- A
-   Python Approach to Concepts, Techniques and Applications'',
-   Springer Nature, 2017 (Unit I, II, III, IV, V)
-3. Foster Provost and Tom Fawcett, ``Data Science for Business'',
-   O'Reilly Media, 2013
-4. Jake VanderPlas, ``Python Data Science Handbook: Essential Tools
-   for Working with Data '', O'Reilly Media, 2016
-5. Rachel Schutt, Cathy O'Neil, ``Doing Data Science'', O'Reilly
-   Media, 2016
+1. Davy Cielen, Arno D B Meysman, Mohamed Ali, ``Introducing Data Science -- Big data, Machine Learning, and more using Python
+   tools'', Manning Publications Co, 2016. 
+2. Laura Igual, Santi Segua­, ``Introduction to Data Science -- A Python Approach to Concepts, Techniques and Applications'',
+   Springer Nature, 2017 
+3. Foster Provost and Tom Fawcett, ``Data Science for Business'',  O'Reilly Media, 2013
+4. Jake VanderPlas, ``Python Data Science Handbook: Essential Tools for Working with Data '', O'Reilly Media, 2016
+5. Rachel Schutt, Cathy O'Neil, ``Doing Data Science'', O'Reilly Media, 2016

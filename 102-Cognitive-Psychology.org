@@ -1,6 +1,6 @@
-* <<<S2>>> Data Visualisation
+* <<<S1>>>  Cognitive-Psychology
 :properties:
-:author:  Dr R Priyadarshini and Ms M Saritha
+:author:  Dr. Chitra Babu and Dr. Nandha
 :date: 
 :end:
 

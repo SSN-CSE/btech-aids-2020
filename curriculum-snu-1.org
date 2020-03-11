@@ -123,33 +123,6 @@
 #+TBLFM: @91$5..@91$9=vsum(@-4..@-3)+@-1
 #+TBLFM: @92$9=@13+@25+@37+@49+@61+@73+@84+@91
 
-#+name: process
-# #+header: :colnames yes
-#+begin_src python :var curriculum=curriculum :results output
-groups = ["HS", "BS", "ES", "PC", "PE", "OE", "EEC"]
-components = {"HS":0, "BS":0, "ES":0, "PC":0, "PE":0, "OE":0, "EEC":0}
-total = 0
-courses = [row for row in curriculum if row[3] in groups]
-for row in courses:
-    credits = float(row[-1])
-    group = row[3]
-    components[group] += credits
-    total += credits
-for group, credits in components.items():
-    print ("%3s %4.1f %3.1f" % (group, credits, credits*100/total))
-print (total)
-#+end_src
-
-#+RESULTS:
-:  HS  8.0 4.9
-:  BS 17.5 10.7
-:  ES  7.5 4.6
-:  PC 100.0 61.3
-:  PE 15.0 9.2
-:  OE  6.0 3.7
-: EEC  9.0 5.5
-: 163.0
-
 #+latex: \newpage
 
 * ELECTIVES

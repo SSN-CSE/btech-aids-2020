@@ -6,7 +6,7 @@
 |----+------+--------------------------------------------------+-----+-----+----+---+----+------|
 |    |      | *Semester I*                                     |     |     |    |   |    |      |
 |    |      | /Theory/                                         |     |     |    |   |    |      |
-|  1 |    1 | English                                          | HS  |   3 |  3 | 0 |  0 |    3 |
+|  1 |    1 | English for Engineers                            | HS  |   3 |  3 | 0 |  0 |    3 |
 |  2 |    1 | Linear Algebra                                   | BS  |   3 |  3 | 0 |  0 |    3 |
 |  3 |    1 | Engineering Physics                              | BS  |   3 |  3 | 0 |  0 |    3 |
 |  4 |    1 | Environmental Science                            | BS  |   3 |  3 | 0 |  0 |    3 |

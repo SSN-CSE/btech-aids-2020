@@ -1,0 +1,96 @@
+* <<<S2>>> English for Engineers 
+:properties:
+:author:  English Dept
+:date: 
+:end:
+
+#+startup: showall
+#+begin_comment
+NIL
+#+end_comment
+
+
+{{{credits}}}
+|L|T|P|C|
+|3|0|0|3|
+
+** COURSE OBJECTIVES
+- To develop listening skills in varied contexts ( lectures, presentations, interviews and others in society) and become socially responsive
+- To develop speaking skills for social, academic and career needs ( technical presentations, group discussions, social interaction, facing interviews etc) 
+- To develop reading skills  for academic as well as social purposes in order to enable them to be independent readers capable of comprehending reading materials of different kinds. 
+- To  promote adequate writing skills in writing paragraphs, technical reports, letters, and other kinds of writing with grammatical accuracy, coherence, cohesion and good vocabulary.
+
+
+
+{{{unit}}}
+|UNIT I|TITLE|9| 
+Listening : Listening comprehension of short texts and general conversations; Speaking :
+Informal talks on familiar topics ( talk amongst friends, strangers, familiar people in society, 
+conversations in public places etc.);  Reading: Reading short passages ( general and technical)
+for deeper levels of comprehension. Practice in skimming-scanning and predicting; Writing: Writing
+sentences using difficult words, idioms and phrases. Writing sentences expressing certain ideas on
+current issues or  matters relating to student life; Language Development: Interrogative Sentences
+
+
+{{{unit}}}
+|UNIT II|TITLE|9| 
+Listening:  Listening to telephone conversations, short presentations and TV News; Speaking: 
+Making short presentations and self evaluation of the same using recorded samples; Reading: 
+Reading for retention and appreciation. (Short narratives, descriptions from newspapers, magazines
+etc.,); Writing: Paragraph writing on familiar topics (topic sentence, cohesive devices,
+organizational pattern); Language Development: Complex Sentences and  Use of Active and Passive
+Voice.
+
+
+{{{unit}}}
+|UNIT III|TITLE|9| 
+Listening : Listening to TED talks and long speeches for comprehension; Speaking:  Describing/
+Critically appreciating  pictures/natural phenomenon/ current happenings etc.; asking and 
+answering questions on the same; Reading: Reading short stories and one-act plays (practice in
+chunking and speed reading.); Writing: Paraphrasing ( précis writing of short and long texts,
+Rewriting short texts in different words retaining the meaning ); Language Development:  Tenses
+and Subject-Verb Concord; Common Errors.
+
+
+{{{unit}}}
+|UNIT IV|TITLE|9| 
+Listening : Listening comprehension (IELTS, TOEFL and others); Speaking: Group Discussion on a
+variety of topics and Self Evaluation of the same using recorded samples; Reading: Reading
+different types of texts (literary, journalistic, print media) for comprehension and aesthetic
+pleasure; Writing: Writing letters (informal or personal letters) and e-mails; Description of
+processes; Language Development: Vocabulary ( use of idioms, phrases and collocations ).
+
+
+{{{unit}}}
+|UNIT V|TITLE|9| 
+Listening : Listening to lectures and making notes; Speaking:  Understanding varying levels of
+proficiency in speaking ( CEFR); Dialogue Delivery ( enacting a short play on a given theme );
+Reading: Reading technical reports for understanding the structure, paraphrasing and making notes;
+Writing: Recommendations and  Instructions, Interpreting charts, graphs and other kinds of visual
+information; Language Development:  Coherence in writing,  Re-ordering jumbled sentences.
+
+
+\hfill *Total Periods: 45*
+
+** COURSE OUTCOMES
+After the completion of this course, students will be able to: 
+- Listen to classroom as well as online lectures, comprehend and take notes. They will also be
+good listeners in social and informal contexts.
+- Participate effectively in informal and formal talks with maximum level of intelligibility
+across varied audience. 
+- Apply reading strategies to comprehend articles in subject areas in particular and reading
+magazines, newspapers, novels, blogs and others in general. 
+- Write paragraphs and larger essays with precision, good vocabulary and grammatical accuracy. 
+
+** TEXT BOOKS
+1. Board of Editors. Using English: A Course book for Undergraduate Engineers and Technologists. Orient Black Swan Limited, Hyderabad: 2015 
+2. Board of editors. Fluency in English: A Course book for Engineering and Technology. Orient Black swan, Hyderabad: 2016 
+    
+
+** REFERENCES
+1.	Richards, C. Jack. Interchange Students’ Book-2 New Delhi: CUP, 2015
+2.	Bailey, Stephen. Academic Writing: A practical guide for students. New York: Rutledge, 2011. 
+3.	Means,L. Thomas and Elaine Langlois. English & Communication For Colleges. Cengage Learning ,USA: 2007.  
+4.	Comfort, Jeremy, et al. Speaking Effectively: Developing Speaking Skills for Business English. Cambridge University Press, Cambridge: Reprint 2011. 
+5.	Grussendorf, Marion, English for Presentations, Oxford University Press, Oxford: 2007 
+6.	Booth-L. Diana, Project Work, Oxford University Press, Oxford: 2014. 

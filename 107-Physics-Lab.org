@@ -1,6 +1,6 @@
-* <<<S2>>> Data Visualisation
+* <<<S1>>> Physics Lab
 :properties:
-:author:  Dr R Priyadarshini and Ms M Saritha
+:author:  Physics Department
 :date: 
 :end:
 

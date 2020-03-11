@@ -1,4 +1,4 @@
-* <<<202>>> MATHEMATICS FOR COMPUTER SCIENCE
+* <<<302>>> MATHEMATICS FOR COMPUTER SCIENCE
 :properties:
 :author: Dr. S. Sheerazuddin and Dr. R. S. Milton
 :date: 29 February 2020

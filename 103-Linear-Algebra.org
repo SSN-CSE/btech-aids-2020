@@ -1,4 +1,4 @@
-* <<<106>>> LINEAR ALGEBRA
+* <<<102>>> LINEAR ALGEBRA
 :properties:
 :author: R S Milton
 :date: 5 Feb 2020
@@ -78,5 +78,6 @@ After the completion of this course, students will be able to:
    India, New Delhi, 2008.
 5. Bernard Kolman, David R Hill, ``Introductory Linear Algebra'',
    Pearson Education, New Delhi, First Reprint, 2009.
-3. Richard Branson, ``Matrix Operations'', Schaum's outline
+3. Richard Branson, ``Matrix Operations''
+, Schaum's outline
    series, 1989.

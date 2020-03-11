@@ -1,0 +1,130 @@
+* <<<102>>> 
+:properties:
+:author: R S Milton
+:date: 5 Feb 2020
+:end:
+
+#+startup: showall
+
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
+		
+** COURSE OBJECTIVES
+- To provide an understanding of the human and natural environment of
+  India
+- To understand , how interactions between organisms and their
+  environments, drive the dynamics of individuals and communities
+- To provide an interdisciplinary approach to complex environmental
+  problems using basic tools of the natural and social sciences
+  including geosystems, biology, chemistry, economics, political
+  science and international processes
+- To recognise, appreciate and adopt ethical conduct in all scientific
+  activities
+- To characterize and analyze human impacts on the environment
+
+{{{unit}}}
+| UNIT I | FUNDAMENTALS OF ENVIRONMENTAL SCIENCES | 9 |
+Definition, Principles and Scope of Environmental Science. Interaction
+between Earth, Man and Environment .Bio-geographic provinces of the
+world and agro-climatic zones of India. Concept of sustainable
+development.Environmental education and awareness. Environmental
+ethics.
+
+Natural resources and their assessment. Application of remote sensing
+and GIS in land cover/land use planning and management (urban
+sprawling, vegetation study, forestry, natural resource).
+
+{{{unit}}}
+| UNIT II |ENVIRONMENTAL CHEMISTRY|9|
+Composition of air. Particles, ions and radicals in the
+atmosphere. Chemical speciation. Chemical processes in the formation
+of inorganic and organic particulate matters, thermo chemical and
+photochemical reactions in the atmosphere, Carcinogens in the air.
+
+Water as a universal solvent. Concept of DO, BOD and COD.
+
+Toxic chemicals: Pesticides and their classification and
+effects. Biochemical aspects of heavy metals (Hg, Cd, Pb, Cr) and
+metalloids (As, Se). CO, O3, VOC (Volatile Organic Compounds) and POP
+(Persistent Organic Pollutants).
+
+{{{unit}}}
+| UNIT III | ENERGY AND ENVIRONMENT|9| 
+Fossil fuels: energy content of coal, petroleum and natural gas. Sun
+as source of energy, solar energy (solar collectors, photo-voltaic
+modules, solar ponds), Principles of generation of hydro-power, tidal
+energy, ocean thermal energy conversion, wind power, geothermal
+energy, Nuclear energy-fission and fusion, Nuclear fuels, Nuclear
+reactor .Bio-energy: methods to produce energy from biomass.
+
+Environmental implications of energy use; energy use pattern in India
+and the world, emissions of CO2 in developed and developing countries
+including India, radiative forcing and global warming. Electric and
+hybrid electric vehicles
+
+{{{unit}}}
+| UNIT IV  | SOLID AND HAZARDOUS WASTE MANAGEMENT|9|
+Solid waste processing and recovery -- Electrical energy generation
+from solid waste, composting and vermi composting, bio methanation of
+solid waste. Disposal of solid wastes -- sanitary land filling and its
+management, incineration of solid waste
+
+Hazardous waste -- Types, characteristics and health
+impacts. Hazardous waste management: Treatment Methods --
+neutralization, oxidation reduction, precipitation solidification,
+stabilization, incineration and final disposal
+
+e-waste: classification, methods of handling and disposal
+
+Fly ash: sources, composition and utilisation. 
+
+Plastic waste: sources, consequences and management.
+
+{{{unit}}}
+| UNIT V | CURRENT ENVIRONMENTAL ISSUES|9|
+Environmental issues related to water resource projects - Rain water
+harvesting and ground water recharge, watershed
+management. Eutrophication and restoration of lakes. Conservation of
+wetlands.
+
+Soil erosion, reclamation of degraded land, desertification and its
+control.
+
+Air quality in Indian cities and Environmental initiatives
+
+Climate change-adaptability, energy security, Population , food
+security and sustainability
+
+Epidemiological Issues: Endemic and Epidemic diseases - Communicable,
+non-communicable and emerging infectious diseases.  Fluorosis,
+Arsenocosis, Goitre, Dengue .
+
+\hfill *Total Hours:45*
+
+** COURSE OUTCOMES
+After the completion of this course, students will be able to:
+- recognize the inter connectedness of multiple factors in
+  environmental challenges
+- engage constructively with diverse forms of knowledge and experience
+- evaluate and interpret various forms of evidence, including text,
+  data, and other media about the environment
+- work productively with those within and beyond the academy on
+  interdisciplinary collaborative projects
+- communicate clearly and competently on matters of environmental
+  concern and understanding to a variety of audiences in appropriate
+  forms
+- develop and appreciate the environmental and cultural history of the
+  places they inhabit
+
+** TEXT BOOKS
+1. Erach Bharucha, ``Textbook of Environmental Studies for
+   Undergraduate Courses'', Orient Black Swan, 2nd edition, 2013
+2. Anubha Kaushik, Gaurav Garg, ``Perspectives in Environmental
+   Studies'', New Age International Publishers, 6th edition, 2018
+
+** REFERENCES
+1. William Cunningham, Mary Cunningham, ``Principles of Environmental
+   Science'', McGraw-Hill Education, 8th edition, 2016
+2. Botkin, Keller, ``Environmental Science'', International student
+   version, Wiley, 8th edition, 2012

@@ -1,4 +1,4 @@
-* <<<204>>> DIGITAL DESIGN AND COMPUTER ORGANIZATION
+* <<<204>>> COMPUTER ORGANIZATION
 :properties:
 :author:  Dr D. Venkatavara Prasad and Mr. K. R. Sarath Chandran
 :date: 

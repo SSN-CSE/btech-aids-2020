@@ -1,0 +1,185 @@
+#+NAME: curriculum
+#+attr_latex: :environment longtable
+#+attr_latex: :width 100% :centre
+|----+------+--------------------------------------------------+-----+-----+----+---+----+------|
+| No | Code | Title                                            | Cat | Hrs |  L | T |  P |    C |
+|----+------+--------------------------------------------------+-----+-----+----+---+----+------|
+|    |      | *Semester I*                                     |     |     |    |   |    |      |
+|    |      | /Theory/                                         |     |     |    |   |    |      |
+|  1 |    1 | Communicative English                            | HS  |   3 |  3 | 0 |  0 |    3 |
+|  2 |    1 | Linear Algebra                                   | BS  |   4 |  4 | 0 |  0 |    4 |
+|  3 |    1 | Engineering Physics                              | BS  |   3 |  3 | 0 |  0 |    3 |
+|  4 |    1 | Environmental Science                            | BS  |   3 |  3 | 0 |  0 |    3 |
+|  5 |    1 | Introduction to Programming Using Python         | ES  |   3 |  3 | 0 |  0 |    3 |
+|  6 |    1 | Engineering Graphics                             | ES  |   5 |  2 | 0 |  3 |    3 |
+|    |      | /Practical/                                      |     |     |    |   |    |      |
+|  7 |    1 | Programming in Python Lab                        | ES  |   4 |  0 | 0 |  4 |  1.5 |
+|  8 |    1 | Physics Lab                                      | BS  |   4 |  0 | 0 |  4 |  1.5 |
+|----+------+--------------------------------------------------+-----+-----+----+---+----+------|
+|    |      | /Total/                                          |     |  29 | 18 | 0 | 11 |   22 |
+|----+------+--------------------------------------------------+-----+-----+----+---+----+------|
+|    |      | *Semester II*                                    |     |     |    |   |    |      |
+|    |      | /Theory/                                         |     |     |    |   |    |      |
+|  1 |    2 | Probability and Statistics                       | BS  |   3 |  3 | 0 |  0 |    3 |
+|  2 |    2 | Mathematics for Computer Science                 | PC  |   3 |  3 | 0 |  0 |    3 |
+|  3 |    2 | Data Structures                                  | PC  |   3 |  3 | 0 |  0 |    3 |
+|  4 |    2 | Digital Design and Computer Organization         | PC  |   3 |  3 | 0 |  0 |    3 |
+|  5 |    2 | Foundations of Data Science                      | PC  |   3 |  3 | 0 |  0 |    3 |
+|    |      | /Practical/                                      |     |     |    |   |    |      |
+|  6 |    2 | Data Structures Lab                              | PC  |   3 |  0 | 0 |  3 |  1.5 |
+|  7 |    2 | Digital Design Lab                               | PC  |   3 |  0 | 0 |  3 |  1.5 |
+|  8 |    2 | Data Science Lab                                 | PC  |   4 |  0 | 0 |  4 |    2 |
+|----+------+--------------------------------------------------+-----+-----+----+---+----+------|
+|    |      | /Total/                                          |     |  25 | 15 | 0 | 10 |   20 |
+|----+------+--------------------------------------------------+-----+-----+----+---+----+------|
+|    |      | *Semester III*                                   |     |     |    |   |    |      |
+|    |      | /Theory/                                         |     |     |    |   |    |      |
+|  1 |    3 | Statistical Inference                            | BS  |   3 |  3 | 0 |  0 |    3 |
+|  2 |    3 | Object Oriented Programming                      | PC  |   3 |  3 | 0 |  0 |    3 |
+|  3 |    3 | Operating Systems                                | PC  |   5 |  3 | 0 |  2 |    4 |
+|  4 |    3 | Introduction to Artificial Intelligence          | PC  |   5 |  3 | 0 |  2 |    4 |
+|  5 |    3 | Exploratory Data Analysis and Data Visualization | PC  |   3 |  3 | 0 |  0 |    3 |
+|  6 |    3 | Cognitive Psychology                             | HS  |   2 |  2 | 0 |  0 |    2 |
+|    |      | /Practical/                                      |     |     |    |   |    |      |
+|  7 |    3 | OOP Lab                                          | PC  |   4 |  0 | 0 |  4 |    2 |
+|  8 |    3 | Exploratory Data Analysis Lab                    | PC  |   4 |  0 | 0 |  4 |    2 |
+|----+------+--------------------------------------------------+-----+-----+----+---+----+------|
+|    |      | /Total/                                          |     |  29 | 17 | 0 | 12 |   23 |
+|----+------+--------------------------------------------------+-----+-----+----+---+----+------|
+|    |      | *Semester IV*                                    |     |     |    |   |    |      |
+|    |      | /Theory/                                         |     |     |    |   |    |      |
+|  1 |    4 | Matrix Calculus                                  | PC  |   3 |  3 | 0 |  0 |    3 |
+|  2 |    4 | Design and Analysis of Algorithms                | PC  |   5 |  3 | 0 |  2 |    4 |
+|  3 |    4 | Database Management Systems                      | PC  |   3 |  3 | 0 |  0 |    3 |
+|  4 |    4 | Computer Networks                                | PC  |   5 |  3 | 0 |  2 |    4 |
+|  5 |    4 | Introduction to Machine Learning                 | PC  |   3 |  3 | 0 |  0 |    3 |
+|  6 |    4 | Principles of Management                         | HS  |   3 |  3 | 0 |  0 |    3 |
+|    |      | /Practical/                                      |     |     |    |   |    |      |
+|  7 |    4 | DBMS Lab                                         | PC  |   3 |  0 | 0 |  3 |  1.5 |
+|  8 |    4 | Machine Learning Lab                             | PC  |   3 |  0 | 0 |  3 |  1.5 |
+|----+------+--------------------------------------------------+-----+-----+----+---+----+------|
+|    |      | /Total/                                          |     |  28 | 18 | 0 | 10 |   23 |
+|----+------+--------------------------------------------------+-----+-----+----+---+----+------|
+|    |      | *Semester V*                                     |     |     |    |   |    |      |
+|    |      | /Theory/                                         |     |     |    |   |    |      |
+|  1 |    5 | Optimization Techniques                          | PC  |   3 |  3 | 0 |  0 |    3 |
+|  2 |    5 | Web Technologies                                 | PC  |   3 |  3 | 0 |  0 |    3 |
+|  3 |    5 | Probabilistic Artificial Intelligence            | PC  |   3 |  3 | 0 |  0 |    3 |
+|  4 |    5 | Big Data Management                              | PC  |   3 |  3 | 0 |  0 |    3 |
+|  5 |    5 | Image and Video Analysis                         | PC  |   3 |  3 | 0 |  0 |    3 |
+|  6 |    5 | Internet of Things                               | PC  |   5 |  3 | 0 |  2 |    4 |
+|    |      | /Practical/                                      |     |     |    |   |    |      |
+|  7 |    5 | Big Data Management Lab                          | PC  |   3 |  0 | 0 |  3 |  1.5 |
+|  8 |    5 | Web Technologies Lab                             | PC  |   3 |  0 | 0 |  3 |  1.5 |
+|----+------+--------------------------------------------------+-----+-----+----+---+----+------|
+|    |      | /Total/                                          |     |  26 | 18 | 0 |  8 |  22. |
+|----+------+--------------------------------------------------+-----+-----+----+---+----+------|
+|    |      | *Semester VI*                                    |     |     |    |   |    |      |
+|    |      | /Theory/                                         |     |     |    |   |    |      |
+|  1 |    6 | Software Engineering                             | PC  |   3 |  3 | 0 |  0 |    3 |
+|  2 |    6 | Data Analytics                                   | PC  |   3 |  3 | 0 |  0 |    3 |
+|  3 |    6 | Data Security and Privacy                        | PC  |   3 |  3 | 0 |  0 |    3 |
+|  4 |    6 | Text Analysis/Natural Language Processing        | PC  |   3 |  3 | 0 |  0 |    3 |
+|  5 |    6 | Professional Elective 1                          | PE  |   4 |  2 | 2 |  0 |    3 |
+|  6 |    6 | Open Elective 1                                  | OE  |   3 |  3 | 0 |  0 |    3 |
+|    |      | /Practical/                                      |     |     |    |   |    |      |
+|  7 |    6 | Data Analytics Lab                               | PC  |   3 |  0 | 0 |  3 |  1.5 |
+|  8 |    6 | NLP Lab                                          | PC  |   3 |  0 | 0 |  3 |  1.5 |
+|----+------+--------------------------------------------------+-----+-----+----+---+----+------|
+|    |      | /Total/                                          |     |  25 | 17 | 2 |  6 |  21. |
+|----+------+--------------------------------------------------+-----+-----+----+---+----+------|
+|    |      | *Semester VII*                                   |     |     |    |   |    |      |
+|    |      | /Theory/                                         |     |     |    |   |    |      |
+|  1 |    7 | Speech Processing                                | PC  |   5 |  3 | 0 |  2 |    4 |
+|  2 |    7 | Deep Learning                                    | PC  |   3 |  3 | 0 |  0 |    3 |
+|  3 |    7 | Professional Elective 2                          | PE  |   4 |  2 | 2 |  0 |    3 |
+|  4 |    7 | Professional Elective 3                          | PE  |   4 |  2 | 2 |  0 |    3 |
+|  5 |    7 | Open Elective 2                                  | OE  |   3 |  3 | 0 |  0 |    3 |
+|    |      | /Practical/                                      |     |     |    |   |    |      |
+|  6 |    7 | Deep Learning Lab                                | PC  |   4 |  0 | 0 |  4 |    2 |
+|  7 |    7 | Capstone Project I                               | EEC |   6 |  0 | 0 |  6 |    3 |
+|----+------+--------------------------------------------------+-----+-----+----+---+----+------|
+|    |      | /Total/                                          |     |  29 | 13 | 4 | 12 |   21 |
+|----+------+--------------------------------------------------+-----+-----+----+---+----+------|
+|    |      | *Semester VIII*                                  |     |     |    |   |    |      |
+|    |      | /Theory/                                         |     |     |    |   |    |      |
+|  1 |    8 | Professional Elective 4                          | PE  |   4 |  2 | 2 |  0 |    3 |
+|  2 |    8 | Professional Elective 5                          | PE  |   4 |  2 | 2 |  0 |    3 |
+|    |      | /Practical/                                      |     |     |    |   |    |      |
+|  3 |    8 | Capstone Project II                              | EEC |  12 |  0 | 0 | 12 |    6 |
+|----+------+--------------------------------------------------+-----+-----+----+---+----+------|
+|    |      | Total                                            |     |  20 |  4 | 4 | 12 |   12 |
+|----+------+--------------------------------------------------+-----+-----+----+---+----+------|
+|    |      | *Grand Total*                                    |     |     |    |   |    | 164. |
+|----+------+--------------------------------------------------+-----+-----+----+---+----+------|
+#+TBLFM: $5=vsum($+1..$+3);EN
+#+TBLFM: @13$5..@13$9=vsum(@-9..@-4)+vsum(@-2..@-1)
+#+TBLFM: @25$5..@25$9=vsum(@-9..@-5)+vsum(@-3..@-1)
+#+TBLFM: @37$5..@37$9=vsum(@-9..@-4)+vsum(@-2..@-1)
+#+TBLFM: @49$5..@49$9=vsum(@-9..@-4)+vsum(@-2..@-1)
+#+TBLFM: @61$5..@61$9=vsum(@-9..@-4)+vsum(@-2..@-1)
+#+TBLFM: @73$5..@73$9=vsum(@-9..@-4)+vsum(@-2..@-1)
+#+TBLFM: @84$5..@84$9=vsum(@-8..@-4)+vsum(@-2..@-1)
+#+TBLFM: @91$5..@91$9=vsum(@-4..@-3)+@-1
+#+TBLFM: @92$9=@13+@25+@37+@49+@61+@73+@84+@91
+
+#+name: process
+# #+header: :colnames yes
+#+begin_src python :var curriculum=curriculum :results output
+groups = ["HS", "BS", "ES", "PC", "PE", "OE", "EEC"]
+components = {"HS":0, "BS":0, "ES":0, "PC":0, "PE":0, "OE":0, "EEC":0}
+total = 0
+courses = [row for row in curriculum if row[3] in groups]
+for row in courses:
+    credits = float(row[-1])
+    group = row[3]
+    components[group] += credits
+    total += credits
+for group, credits in components.items():
+    print ("%3s %4.1f %3.1f" % (group, credits, credits*100/total))
+print (total)
+#+end_src
+
+#+RESULTS:
+:  HS  8.0 4.9
+:  BS 17.5 10.7
+:  ES  7.5 4.6
+:  PC 100.0 61.3
+:  PE 15.0 9.2
+:  OE  6.0 3.7
+: EEC  9.0 5.5
+: 163.0
+
+#+latex: \newpage
+
+* ELECTIVES
+#+attr_latex: :environment longtable :align @{}p{.04\textwidth}p{.06\textwidth}p{.5\textwidth}p{.05\textwidth}p{.05\textwidth}p{.05\textwidth}p{.05\textwidth}p{.05\textwidth}p{.05\textwidth}
+|----+------+-------------------------------------------+-----+-----+---+---+---+---|
+| No | Code | Title                                     | Cat | Hrs | L | T | P | C |
+|----+------+-------------------------------------------+-----+-----+---+---+---+---|
+|    |      | *Professional Electives*                  |     |   0 |   |   |   |   |
+|  1 |      | Digital Image Processing                  | PE  |   4 | 2 | 0 | 2 | 3 |
+|  2 |      | Natual Language Processing/Text Analytics | PE  |   4 | 2 | 0 | 2 | 3 |
+|  3 |      | Computer Vision                           | PE  |   4 | 2 | 0 | 2 | 3 |
+|  4 |      | Data Mining and Data Visualization        | PE  |   4 | 2 | 0 | 2 | 3 |
+|  5 |      | Data Mining and Data Warehousing          | PE  |   4 | 2 | 0 | 2 | 3 |
+|  6 |      | Cyber Forensics                           | PE  |   4 | 2 | 0 | 2 | 3 |
+|  7 |      | Health Care Analytics                     | PE  |   4 | 2 | 0 | 2 | 3 |
+|  8 |      | Bio Informatics                           | PE  |   4 | 2 | 0 | 2 | 3 |
+|  9 |      | Mulitimodal/Video Analytics               | PE  |   4 | 2 | 0 | 2 | 3 |
+| 10 |      | Social Network Analytics                  | PE  |   4 | 2 | 0 | 2 | 3 |
+| 11 |      | Speech Processing                         | PE  |   4 | 2 | 0 | 2 | 3 |
+| 13 |      | Reinforcement Learning                    | PE  |   4 | 2 | 0 | 2 | 3 |
+| 14 |      | Soft Computing                            | PE  |   4 | 2 | 0 | 2 | 3 |
+| 15 |      | Multi Agent Systems                       | PE  |   4 | 2 | 0 | 2 | 3 |
+| 16 |      | Functional Programming                    | PE  |   4 | 2 | 0 | 2 | 3 |
+| 17 |      | Distributed Systems                       | PE  |   4 | 2 | 0 | 2 | 3 |
+| 18 |      | Financial Analytics                       | PE  |   4 | 2 | 0 | 2 | 3 |
+| 19 |      | GPU Computing                             | PE  |   4 | 2 | 0 | 2 | 3 |
+| 20 |      | Robotics                                  | PE  |   4 | 2 | 0 | 2 | 3 |
+| 21 |      | Information Retrieval                     | PE  |   4 | 2 | 0 | 2 | 3 |
+| 22 |      | Bayesian Data Analysis                    | PE  |   4 | 2 | 0 | 2 | 3 |
+| 23 |      | Sensor Data Analytics                     | PE  |   4 | 2 | 0 | 2 | 3 |
+| 24 |      | Signals and Transforms                    | PE  |   4 | 2 | 0 | 2 | 3 |
+|----+------+-------------------------------------------+-----+-----+---+---+---+---|
+#+TBLFM: $5=vsum($+1..$+3);EN

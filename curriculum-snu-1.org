@@ -41,10 +41,10 @@
 |  5 |    3 | Introduction to Artificial Intelligence          | PC  |   5 |  3 | 0 |  2 |    4 |
 |  6 |    3 | Exploratory Data Analysis and Data Visualization | PC  |   3 |  3 | 0 |  0 |    3 |
 |    |      | /Practical/                                      |     |     |    |   |    |      |
-|  7 |    3 | OOP Lab                                          | PC  |   4 |  0 | 0 |  4 |    2 |
-|  8 |    3 | Exploratory Data Analysis Lab                    | PC  |   4 |  0 | 0 |  4 |    2 |
+|  7 |    3 | OOP Lab                                          | PC  |   4 |  0 | 0 |  4 |   1.5|
+|  8 |    3 | Exploratory Data Analysis Lab                    | PC  |   4 |  0 | 0 |  4 |   1.5|
 |----+------+--------------------------------------------------+-----+-----+----+---+----+------|
-|    |      | /Total/                                          |     |  29 | 17 | 0 | 12 |   24 |
+|    |      | /Total/                                          |     |  29 | 17 | 0 | 12 |   23 |
 |----+------+--------------------------------------------------+-----+-----+----+---+----+------|
 |    |      | *Semester IV*                                    |     |     |    |   |    |      |
 |    |      | /Theory/                                         |     |     |    |   |    |      |
@@ -79,7 +79,7 @@
 |  1 |    6 | Software Engineering                             | PC  |   3 |  3 | 0 |  0 |    3 |
 |  2 |    6 | Data Analytics                                   | PC  |   3 |  3 | 0 |  0 |    3 |
 |  3 |    6 | Data Security and Privacy                        | PC  |   3 |  3 | 0 |  0 |    3 |
-|  4 |    6 | Text Analysis/Natural Language Processing        | PC  |   3 |  3 | 0 |  0 |    3 |
+|  4 |    6 | Text Analysis                                    | PC  |   3 |  3 | 0 |  0 |    3 |
 |  5 |    6 | Professional Elective 1                          | PE  |   4 |  2 | 2 |  0 |    3 |
 |  6 |    6 | Open Elective 1                                  | OE  |   3 |  3 | 0 |  0 |    3 |
 |    |      | /Practical/                                      |     |     |    |   |    |      |
@@ -132,7 +132,7 @@
 |----+------+-------------------------------------------+-----+-----+---+---+---+---|
 |    |      | *Professional Electives*                  |     |   0 |   |   |   |   |
 |  1 |      | Digital Image Processing                  | PE  |   4 | 2 | 0 | 2 | 3 |
-|  2 |      | Natual Language Processing/Text Analytics | PE  |   4 | 2 | 0 | 2 | 3 |
+|  2 |      | Natual Language Processing                | PE  |   4 | 2 | 0 | 2 | 3 |
 |  3 |      | Computer Vision                           | PE  |   4 | 2 | 0 | 2 | 3 |
 |  4 |      | Data Mining and Data Visualization        | PE  |   4 | 2 | 0 | 2 | 3 |
 |  5 |      | Data Mining and Data Warehousing          | PE  |   4 | 2 | 0 | 2 | 3 |

@@ -90,7 +90,7 @@
 |----+------+--------------------------------------------------+-----+-----+----+---+----+------|
 |    |      | *Semester VII*                                   |     |     |    |   |    |      |
 |    |      | /Theory/                                         |     |     |    |   |    |      |
-|  1 |    7 | Speech Processing                                | PC  |   5 |  3 | 0 |  2 |    4 |
+|  1 |    7 | Speech Technology                                | PC  |   5 |  3 | 0 |  2 |    4 |
 |  2 |    7 | Deep Learning                                    | PC  |   3 |  3 | 0 |  0 |    3 |
 |  3 |    7 | Professional Elective 2                          | PE  |   4 |  2 | 2 |  0 |    3 |
 |  4 |    7 | Professional Elective 3                          | PE  |   4 |  2 | 2 |  0 |    3 |

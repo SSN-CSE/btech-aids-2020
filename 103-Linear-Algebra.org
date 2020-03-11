@@ -62,22 +62,13 @@ After the completion of this course, students will be able to:
   matrix decomposition
 
 ** TEXT BOOKS
-1. Friedberg A H, Insel A J, Spence L, ``Linear Algebra'', Prentice
-   Hall of India, New Delhi, 2004
-2. Faires J D, Burden R, ``Numerical Methods'', Brooks/Cole (Thomson
-   Publications), New Delhi, 2002.
+1. Friedberg A H, Insel A J, Spence L, ``Linear Algebra'', Prentice Hall of India, New Delhi, 2004
+2. Faires J D, Burden R, ``Numerical Methods'', Brooks/Cole (Thomson Publications), New Delhi, 2002.
 
 ** REFERENCES
-1. Kumaresan S, ``Linear Algebra -- A Geometric Approach'', Prentice
-   Hall of India, New Delhi, Reprint, 2010.
-2. Strang G, ``Linear Algebra and its Applications'', Thomson
-   (Brooks/Cole), New Delhi, 2005.
-3. Gerald C F, Wheatley P O, ``Applied Numerical Analysis'', Pearson
-   Education, New Delhi, 2002.
-4. Sundarapandian V, ``Numerical Linear Algebra'', Prentice Hall of
-   India, New Delhi, 2008.
-5. Bernard Kolman, David R Hill, ``Introductory Linear Algebra'',
-   Pearson Education, New Delhi, First Reprint, 2009.
-3. Richard Branson, ``Matrix Operations''
-, Schaum's outline
-   series, 1989.
+1. Kumaresan S, ``Linear Algebra -- A Geometric Approach'', Prentice Hall of India, New Delhi, Reprint, 2010.
+2. Strang G, ``Linear Algebra and its Applications'', Thomson (Brooks/Cole), New Delhi, 2005.
+3. Gerald C F, Wheatley P O, ``Applied Numerical Analysis'', Pearson Education, New Delhi, 2002.
+4. Sundarapandian V, ``Numerical Linear Algebra'', Prentice Hall of India, New Delhi, 2008.
+5. Bernard Kolman, David R Hill, ``Introductory Linear Algebra'', Pearson Education, New Delhi, First Reprint, 2009.
+3. Richard Branson, ``Matrix Operations'' , Schaum's outline series, 1989.

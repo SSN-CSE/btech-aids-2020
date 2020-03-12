@@ -51,14 +51,10 @@ Problem solving: Types -  Obstacles and aids - Creativity and brain – Judgemen
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - To understand mind scientifically and cognition (<K2>) 
-- Course Outcomes 2 (<Knowledg Level No>K3)
-- Course Outcomes 3 (<Knowledg Level No>K3)
-- Course Outcomes 4 (<Knowledg Level No>K3)
-- Course Outcomes 5 (<Knowledg Level No>K3)
-- Analyze, evaluate, and compare major theories in cognitive psychology and relate new experimental results to these theories. 
-- Critically evaluate the quality of cognitive methods and formulate logical arguments on the basis of theoretical or empirical analyses.
-- Understand  strengths and weaknesses of these methods, and how these methods are being integrated with neuroscience to further our understanding of how the mind and brain function.
-- Explain some of the broader implications of cognitive research for society. 
+- Analyze, evaluate, and compare major theories in cognitive psychology and relate new experimental results to these theories. (<K3>)
+- Critically evaluate the quality of cognitive methods and formulate logical arguments on the basis of theoretical or empirical analyses. (<K3>)
+- Understand  strengths and weaknesses of these methods, and how these methods are being integrated with neuroscience to further our understanding of how the mind and brain function. (<K3>)
+- Explain some of the broader implications of cognitive research for society. (<K3>)
 
 ** TEXT BOOKS
     Robert Sternberg, Karin Sternberg, Cognitive Psychology 6th edition, Wadsworth, 2012

@@ -58,7 +58,7 @@ After the completion of this course, students will be able to:
 ** REFERENCES
 
 1. G K Kharate, “Digital Electronics”, Oxford University Press, 2010.
-2. John F Wakerly, “Digital Design Principles and Practices”, 5thEdition, Pearson Education, 2017. 
+2. John F Wakerly, “Digital Design Principles and Practices”, 5th Edition, Pearson Education, 2017. 
 3. Charles H Roth Jr, LarryL Kinney,“Fundamentals of Logic Design”, 6th Edition, CENGAGE Learning, 2013.
 4. Donald D Givone, “Digital Principles and Design”, Tata McGraw Hill, 2003. 
 5. Thomas L Floyd, “Digital Fundamentals”, 11th Edition, Pearson Education, 2017.

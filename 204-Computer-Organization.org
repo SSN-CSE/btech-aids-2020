@@ -11,88 +11,58 @@
 |3|0|0|3|
 
 ** COURSE OBJECTIVES
-- To understand the basic representations of digital functions and its
-  simplification methods.
-- To design combinational and sequential circuits
-- To understand the design of arithmetic and logic units for fixed and
-  floating-point numbers
-- To understand the design of basic control unit and pipelined
-  execution
-- To learn the memory hierarchy and concepts of cache, virtual
-  memories and communication with I/O devices
-
-{{{unit}}}
-| UNIT I | BOOLEAN ALGEBRA AND LOGIC GATES | 9 |
-
-Number Systems -- Arithmetic Operations -- Binary Codes -- Boolean
-Algebra and Logic Gates -- Theorems and Properties of Boolean Algebra --
-Boolean Functions -- Canonical and Standard Forms -- Simplification of
-Boolean Functions using Karnaugh Map -- Logic Gates -- NAND and NOR
-Implementations.
-
-{{{unit}}}
-|UNIT II|COMBINATIONAL  AND SEQUENTIAL LOGIC|9| 
-Combinational Circuits- Design Procedures -- Binary Adder -- Subtractor --
-Magnitude Comparator -- Decoders -- Encoders -- Multiplexers --
-Demultiplexers; Sequential Circuits -- Flip flops -- Shift registers --
-Counters.
+- To understand the basic structure and operations of a computer 
+- To understand the arithmetic and logic unit and implementation of fixed-point and floating-point arithmetic unit
+- To understand the basics of pipelined execution 
+- To understand the memory hierarchies, cache and virtual memories and communication with I/O devices 
+- To understand parallelism and multi-core processors.
 
 
 {{{unit}}}
-|UNIT III|ALU DESIGN |9| 
-Addition and subtraction - Multiplication- Division- Floating Point
-Representations and operations.
+| UNIT I | BASIC STRUCTURE OF A COMPUTER SYSTEM  | 9 |
+
+ Functional Units -- Basic Operational Concepts -- Performance; Instructions: Language of the computer -- Operations, Operands -- Instruction representation; Logical operations -- Decision making; MIPS addressing. 
+ 
+ 
 
 {{{unit}}}
-|UNIT IV|BASIC PROCESSING UNIT AND PIPELINING |9| 
-Fundamental concepts -- Execution of a complete instruction -- Multiple
-bus organization -- Hardwired control -- Micro programmed control;
-Pipelining: Basic concepts -- Data hazards -- Instruction hazards --
-Structural Hazards.
+|UNIT II|ALU DESIGN |9| 
+Addition and subtraction; Multiplication; Division; Floating Point Representation: Floating point operations; Sub word parallelism. 
+
 
 {{{unit}}}
-|UNIT V|MEMORY  AND I/O SYSTEMS |9| 
-Basic concepts -- RAM -- ROM -- Speed -- Size and cost -- Cache memories --
-Improving cache performance -- Virtual memory -- Memory management
-requirements -- Accessing I/O devices -- Programmed Input/Output
--Interrupts -- Direct Memory Access.
+|UNIT III| PROCESSOR AND CONTROL UNIT  |9| 
+A Basic MIPS implementation: Building a data path – Control implementation scheme; Pipelining: Pipelined data path and control -- Handling structural data ,Control  hazards -- Exceptions -- Issues in predictive branching: Spectre and Meltdown. 
 
+{{{unit}}}
+|UNIT IV|MEMORY & I/O SYSTEMS  |9| 
+Memory Hierarchy; Memory technologies; Cache Memory: Measuring and improving cache performance; Virtual Memory: TLBs; Accessing I/O devices -- Interrupts; Direct memory access; Bus structure – Bus operation -- Arbitration; Interface circuits; USB.
+
+{{{unit}}}
+|UNIT V|PARALLEL PROCESSORS 	 |9| 
+Parallel processing challenges; Flynn's classification: SISD – MIMD -- SIMD -- SPMD and Vector Architectures; Hardware multithreading; Multi-core processors and other shared memory multiprocessors; Introduction to Graphics Processing Units.
 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to:
-- Simplify boolean functions using Boolean algebra and Karnaugh Map
-  (K3)
-- Design combinational and sequential Circuits (K3)
-- Design arithmetic and logic unit (K3)
-- Understand the design of basic control unit and pipelined execution
-  (K3)
-- Design of various memory interfacing and understand the I/O
-  communication (K3)
+- Understand the basics structure of computers, operations and instructions (K2) 
+- Design arithmetic and logic unit (K3) 
+- Understand pipelined execution and design control unit (K3) 
+- Design various memory systems and understand I/O communication (K3) 
+- Understand parallel processing architectures (K2)
 
 
 ** TEXT BOOKS
-1. Morris R Mano, Michael D Ciletti, ``Digital Design: With an
-   Introduction to the Verilog HDL, VHDL, and System Verilog'', 6th
-   Edition, Pearson Education, 2017.
-2. Carl Hamacher, Zvonko Vranesic, Safwat Zaky, Naraig Manjikian,
-   ``Computer Organization and Embedded Systems'', 6th Edition, Tata
-   McGraw Hill, 2012
-3. S Salivahanan, S Arivazhagan, ``Digital Circuits and Design'', 5th
-   Edition, Oxford University Press, 2018.
- 
+1. David A Patterson, John L Hennessy, “Computer Organization and Design: The Hardware/Software Interface”, 5th Edition, Morgan Kaufmann/ Elsevier, 2014. (Unit I, III, V) 
+2. Carl Hamacher, Zvonko Vranesic, Safwat Zaky, Naraig Manjikian, “Computer Organization and Embedded Systems”, 6th Edition, Tata McGraw Hill, 2012 (Unit I, II, IV)
 
+ 
 ** REFERENCES
-1. G K Kharate, ``Digital Electronics'', Oxford University
-   Press, 2010.
-2. John F Wakerly, ``Digital Design Principles and Practices'', 5th
-   Edition, Pearson Education, 2017.
-3. David A Patterson, John L Hennessy, ``Computer Organization and
-   Design: The Hardware/Software Interface'', 5th Edition, Morgan
-   Kaufmann/ Elsevier, 2014
-4. William Stallings, ``Computer Organization and Architecture --
-   Designing for Performance'', 8th Edition, Pearson Education, 2010.
-5. Morris Mano M, ``Computer System Architecture'', Revised 3rd
-   Edition, Pearson Publication, 2017.
+1. William Stallings, “Computer Organization and Architecture – Designing for Performance”, 8th Edition, Pearson Education, 2010. 
+2. John P Hayes, “Computer Architecture and Organization”, 3rd Edition, Tata Mc Graw Hill, 2012.
+3. John L Hennessey, David A Patterson, “Architecture – A Quantitative Approach”, 5th edition, Morgan    
+   Kaufmann / Elsevier, 2012.  
+4. MorrisManoM, “Computer System Architecture”, Revised3rd Edition, Pearson Publication, 2017. 
+5. Chakraborty P, “Computer Architecture and Organization”, JAICO Publishing House, 2010.
 

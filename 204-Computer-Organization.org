@@ -20,8 +20,7 @@
 
 {{{unit}}}
 | UNIT I | BASIC STRUCTURE OF A COMPUTER SYSTEM  | 9 |
-
- Functional Units -- Basic Operational Concepts -- Performance; Instructions: Language of the computer -- Operations, Operands -- Instruction representation; Logical operations -- Decision making; MIPS addressing. 
+Functional Units -- Basic Operational Concepts -- Performance; Instructions: Language of the computer -- Operations, Operands -- Instruction representation; Logical operations -- Decision making; MIPS addressing. 
  
  
 

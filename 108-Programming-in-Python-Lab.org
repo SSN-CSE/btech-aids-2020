@@ -51,3 +51,11 @@ After the completion of this course, students will be able to:
 - Use functions for structuring Python programs (K3).
 - Represent compound data using Python lists, tuples, and dictionaries (K3).
 - Read and write data from/to files in Python (K3).
+
+** LABORATORY REQUIREMENT FOR BATCH OF 25 STUDENTS
+Hardware: 
+1. Systems - 30 
+
+Software: 
+1. Python Compiler
+

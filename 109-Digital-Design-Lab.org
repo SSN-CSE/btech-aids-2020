@@ -11,38 +11,44 @@
 | 0 | 0 | 3 | 1.5 |
 
 ** COURSE OBJECTIVES
--	To understand various basic logic gates 
--	To design and implement various combinational circuits
--	To design and implement combinational circuits using MSI devices.
--	To design and implement shift registers
--	To design and implement counters
+- To understand the various basic logic gates 
+- To design and implement the various combinational circuits 
+- To design and implement combinational circuits using MSI devices. 
+- To design and implement sequential circuits 
+- To understand and design using HDL programming
+
 
 ** SUGGESTIVE LAB EXPERIMENTS
-1. Verification of Boolean Theorems using basic gates.
-2. Design and implementation of combinational circuits using basic gates for arbitrary functions, code converters. 
+1. Verification of Boolean Theorems using basic gates. 
+2. Design and implementation of combinational circuits using basic gates for arbitrary functions, code    
+    converters.
 3. Design and implement half/full adder and subtractor.
 4. Design and implement combinational circuits using MSI devices: 
-   a. 4 bit binary adder/subtractor 
-   b. Parity generator/Checker
- 	c. Magnitude Comparator
- 	d. Application using multiplexers 
+   a.  4 bit binary adder/subtractor
+   b. Parity generator/Checker 
+   c. Magnitude Comparator 
+   d. Application using multiplexers
 5. Design and implement shift registers. 
-6. Design and implement synchronous counters.
+6. Design and implement synchronous counters. 
 7. Design and implement asynchronous counters. 
+8. Simulate combinational circuits using HDL.
+9. Simulate sequential circuits using HDL. 
 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Understand basic gates and universal gates to design a digital circuit (K3) 
+- Understand basic gates and universal gates to design a digital circuit (K3)
 - Design and Implement various combinational circuits using logic gates(K3) 
-- Design and Implement various combinational circuits using MSI devices(K3) 
-- Design and Implement shift registers(K3) 
-- Design and Implement counters (K3) 
+- Design and Implement various combinational circuits using MSI devices (K3) 
+- Design and Implement various sequential circuits(K3) 
+- Simulate various combinational and sequential circuits using HDL (K3).
 
       
 ** LABORATORY REQUIREMENT FOR BATCH OF 25 STUDENTS
 Hardware: 
 1. Digital trainer kits - 25 
 2. Digital ICs required for the experiments in enough numbers
+ Software: 
+1. HDL simulator
 

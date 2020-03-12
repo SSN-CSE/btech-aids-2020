@@ -11,88 +11,56 @@
 |3|0|0|3|
 
 ** COURSE OBJECTIVES
-- To understand the basic representations of digital functions and its
-  simplification methods.
-- To design combinational and sequential circuits
-- To understand the design of arithmetic and logic units for fixed and
-  floating-point numbers
-- To understand the design of basic control unit and pipelined
-  execution
-- To learn the memory hierarchy and concepts of cache, virtual
-  memories and communication with I/O devices
+- To design digital circuits using simplified Boolean functions
+- To analyze and design combinational circuits
+- To analyze and design synchronous and asynchronous sequential circuits 
+- To understand memory structures and programmable logic devices
+- To write HDL codes for combinational and sequential circuits.
+
 
 {{{unit}}}
 | UNIT I | BOOLEAN ALGEBRA AND LOGIC GATES | 9 |
-
-Number Systems -- Arithmetic Operations -- Binary Codes -- Boolean
-Algebra and Logic Gates -- Theorems and Properties of Boolean Algebra --
-Boolean Functions -- Canonical and Standard Forms -- Simplification of
-Boolean Functions using Karnaugh Map -- Logic Gates -- NAND and NOR
-Implementations.
+Number Systems– Arithmetic Operations – Binary Codes–Boolean Algebra and Logic Gates – Theorems and Properties of Boolean Algebra – Boolean Functions– Canonical and Standard Forms– Simplification of Boolean Functions using Karnaugh Map – Logic Gates – NAND and NOR Implementations.
 
 {{{unit}}}
-|UNIT II|COMBINATIONAL  AND SEQUENTIAL LOGIC|9| 
-Combinational Circuits- Design Procedures -- Binary Adder -- Subtractor --
-Magnitude Comparator -- Decoders -- Encoders -- Multiplexers --
-Demultiplexers; Sequential Circuits -- Flip flops -- Shift registers --
-Counters.
-
+|UNIT II|COMBINATIONAL LOGIC |9| 
+Combinational Circuits– Analysis and Design Procedures – Binary Adder– Subtractor – Decimal Adder – Binary Multiplier – Magnitude Comparator – Decoders – Encoders – Multiplexers.
 
 {{{unit}}}
-|UNIT III|ALU DESIGN |9| 
-Addition and subtraction - Multiplication- Division- Floating Point
-Representations and operations.
+|UNIT III|SYNCHRONOUS SEQUENTIAL LOGIC  |9| 
+Sequential Circuits – Storage Elements: Latches, Flip Flops; Analysis of Clocked Sequential Circuits– State Reduction and Assignment – Design Procedure – Registers and Counters. 
 
 {{{unit}}}
-|UNIT IV|BASIC PROCESSING UNIT AND PIPELINING |9| 
-Fundamental concepts -- Execution of a complete instruction -- Multiple
-bus organization -- Hardwired control -- Micro programmed control;
-Pipelining: Basic concepts -- Data hazards -- Instruction hazards --
-Structural Hazards.
+|UNIT IV| ASYNCHRONOUS SEQUENTIAL LOGIC   |9| 
+Analysis and Design of Asynchronous Sequential Circuits– Reduction of State and Flow Tables – Race free State Assignment – Hazards; Introduction to HDL - HDL Models of Combinational and sequential circuits.
 
 {{{unit}}}
-|UNIT V|MEMORY  AND I/O SYSTEMS |9| 
-Basic concepts -- RAM -- ROM -- Speed -- Size and cost -- Cache memories --
-Improving cache performance -- Virtual memory -- Memory management
-requirements -- Accessing I/O devices -- Programmed Input/Output
--Interrupts -- Direct Memory Access.
+|UNIT V| MEMORY AND PROGRAMMABLE LOGIC |9| 
+RAM– Memory Decoding – Error Detection and Correction – ROM– Programmable Logic Array – Programmable Array Logic – Sequential Programmable Devices.
 
 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to:
-- Simplify boolean functions using Boolean algebra and Karnaugh Map
-  (K3)
-- Design combinational and sequential Circuits (K3)
-- Design arithmetic and logic unit (K3)
-- Understand the design of basic control unit and pipelined execution
-  (K3)
-- Design of various memory interfacing and understand the I/O
-  communication (K3)
+-	Simplify Boolean functions using K-Map (K3)
+-	Analyze and design Combinational Circuits (K4)
+-	Analyze and design Synchronous Sequential Circuits (K4)
+-	Analyze and design Asynchronous Sequential Circuits (K4)
+-	Understand various memories and implement Boolean functions using Programmable Logic Devices (K3)
 
 
 ** TEXT BOOKS
-1. Morris R Mano, Michael D Ciletti, ``Digital Design: With an
-   Introduction to the Verilog HDL, VHDL, and System Verilog'', 6th
-   Edition, Pearson Education, 2017.
-2. Carl Hamacher, Zvonko Vranesic, Safwat Zaky, Naraig Manjikian,
-   ``Computer Organization and Embedded Systems'', 6th Edition, Tata
-   McGraw Hill, 2012
-3. S Salivahanan, S Arivazhagan, ``Digital Circuits and Design'', 5th
-   Edition, Oxford University Press, 2018.
- 
+1. Morris R Mano, Michael D Ciletti, “Digital Design: With an Introduction to the Verilog HDL, VHDL, and System Verilog”, 6th Edition, Pearson Education, 2017.
+2. S Salivahanan, S Arivazhagan, “Digital Circuit sand Design”, 5th Edition, Oxford University Press, 2018.
+
 
 ** REFERENCES
-1. G K Kharate, ``Digital Electronics'', Oxford University
-   Press, 2010.
-2. John F Wakerly, ``Digital Design Principles and Practices'', 5th
-   Edition, Pearson Education, 2017.
-3. David A Patterson, John L Hennessy, ``Computer Organization and
-   Design: The Hardware/Software Interface'', 5th Edition, Morgan
-   Kaufmann/ Elsevier, 2014
-4. William Stallings, ``Computer Organization and Architecture --
-   Designing for Performance'', 8th Edition, Pearson Education, 2010.
-5. Morris Mano M, ``Computer System Architecture'', Revised 3rd
-   Edition, Pearson Publication, 2017.
+
+1. G K Kharate, “Digital Electronics”, Oxford University Press, 2010.
+2. John F Wakerly, “Digital Design Principles and Practices”, 5thEdition, Pearson Education, 2017. 
+3. Charles H Roth Jr, LarryL Kinney,“Fundamentals of Logic Design”, 6th Edition, CENGAGE Learning, 2013.
+4. Donald D Givone, “Digital Principles and Design”, Tata McGraw Hill, 2003. 
+5. Thomas L Floyd, “Digital Fundamentals”, 11th Edition, Pearson Education, 2017.
+
 

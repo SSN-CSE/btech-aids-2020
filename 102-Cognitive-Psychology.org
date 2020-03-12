@@ -1,4 +1,4 @@
-* <<<S1>>>  Cognitive-Psychology
+* <<<S1>>>  Cognitive Psychology
 :properties:
 :author: Dr S Nanda, Dr T T Mirnalinee & Dr R Kanchana
 :date: 
@@ -21,8 +21,6 @@ This version uploaded by RK. Course outcomes - should they be rewritten to match
 - To understand how   cognition plays central role in our everyday lives
 - To study and understand Attention and Perception, Learning and Memory, and Higher Cognitive Function.  
 - To carry out several demonstration experiments from the on-line MindTap/CogLab library and participate in class polls and discussions.   
-
-
 {{{unit}}}
 |UNIT I|Cognition and Intelligence |3| 
 Introduction: Studying the mind – Evolution – Cognition and Intelligence – Research methods in Cognitive Psychology
@@ -36,6 +34,7 @@ Cognitive Neuroscience: Neurons: Basic Principles - Representation by Neural Fir
 Perception: Basic concepts - From Sensation to Representation - Approaches to Perception: Perception of Objects and Forms - Recognizing Patterns and Faces - Deficits in Perception
 Attention: The Nature of Attention and Consciousness - Selective Attention and Divided Attention - Investigating Divided Attention in the Lab - Neuroscience and Attention: A Network Model. Intelligence and Attention - Attention Deficit Hyperactivity Disorder (ADHD)
 Automatic and Controlled Processes in Attention
+
 {{{unit}}}
 |UNIT IV|Memory|7| 
 Memory: Modal model, Sensory, Short term memory: working, storage – Long term memory: Episodic and semantic -  Encoding – Effective studying – retrieval and consolidation – Mental representation of knowledge - Memory errors: misinformation effect
@@ -51,15 +50,17 @@ Problem solving: Types -  Obstacles and aids - Creativity and brain – Judgemen
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - To understand mind scientifically and cognition (<K2>) 
-- Analyze, evaluate, and compare major theories in cognitive psychology and relate new experimental results to these theories. (<K3>)
-- Critically evaluate the quality of cognitive methods and formulate logical arguments on the basis of theoretical or empirical analyses. (<K3>)
-- Understand  strengths and weaknesses of these methods, and how these methods are being integrated with neuroscience to further our understanding of how the mind and brain function. (<K3>)
-- Explain some of the broader implications of cognitive research for society. (<K3>)
+- Analyze, evaluate, and compare major theories in cognitive psychology and relate new experimental results to these theories. 
+- Critically evaluate the quality of cognitive methods and formulate logical arguments on the basis of theoretical or empirical analyses.
+- Understand  strengths and weaknesses of these methods, and how these methods are being integrated with neuroscience to further our understanding of how the mind and brain function.
+- Explain some of the broader implications of cognitive research for society. 
 
 ** TEXT BOOKS
-    Robert Sternberg, Karin Sternberg, Cognitive Psychology 6th edition, Wadsworth, 2012
-Goldstein, B. Cognitive Psychology: Connecting Mind, Research and Everyday Experience, 5th Edition. Wadsworth Cengage Learning. 2018
+1. Robert Sternberg, Karin Sternberg, Cognitive Psychology 6th edition, Wadsworth, 2012
+2. Goldstein, B. Cognitive Psychology: Connecting Mind, Research and Everyday Experience, 5th Edition, Wadsworth Cengage Learning. 2018
+
 ** REFERENCES
-Kosslyn, S. & Rosenberg, R. Introducing Psychology: Brain, Person, Group (4th edition).  Pearson Learning Solutions, 2011
- Cognition, 8th Edition by Margaret W. Matlin  
- The Scientist in the Crib: What Early Learning Tells Us About the Mind. New York: William Morrow Paperbacks. Iyengar, S. S. (2011).
+1. Kosslyn, S. & Rosenberg, R, "Introducing Psychology: Brain, Person, Group", (4th edition).  Pearson Learning Solutions, 2011
+2. Thomas A Farmer, Margaret W. Matlin, " Cognition", 10th Edition, Wiley Publishers 2018.
+3. Alison Gopnik, Andrew N Meltzoff, Patrica K Kuhl, "The Scientist in the Crib: What Early Learning Tells Us About the Mind",  1st Edition, Perennial,An imprint of HarperCollins Publishers, 2001.
+

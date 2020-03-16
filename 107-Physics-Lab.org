@@ -1,4 +1,4 @@
-* <<<S1>>> Physics Lab
+* <<<107>>> PHYSICS LAB
 :properties:
 :author:  Physics Department
 :date: 

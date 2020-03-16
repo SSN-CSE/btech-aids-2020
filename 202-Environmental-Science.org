@@ -1,4 +1,4 @@
-* <<<102 Environmental Sciences>>> 
+* <<<102>>> ENVIRONMENTAL SCIENCES 
 :properties:
 :author: R S Milton
 :date: 5 Feb 2020
@@ -26,7 +26,7 @@
 {{{unit}}}
 | UNIT I | FUNDAMENTALS OF ENVIRONMENTAL SCIENCES | 9 |
 Definition, Principles and Scope of Environmental Science. Interaction
-between Earth, Man and Environment .Bio-geographic provinces of the
+between Earth, Man and Environment. Bio-geographic provinces of the
 world and agro-climatic zones of India. Concept of sustainable
 development.Environmental education and awareness. Environmental
 ethics.

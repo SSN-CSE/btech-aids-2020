@@ -19,49 +19,68 @@
 
 
 {{{unit}}}
-| UNIT I | BASIC STRUCTURE OF A COMPUTER SYSTEM  | 9 |
-Functional Units -- Basic Operational Concepts -- Performance; Instructions: Language of the computer -- Operations, Operands -- Instruction representation; Logical operations -- Decision making; MIPS addressing. 
+| UNIT I | BASIC STRUCTURE OF A COMPUTER SYSTEM | 9 |
+Functional Units -- Basic Operational Concepts -- Performance;
+Instructions: Language of the computer -- Operations, Operands --
+Instruction representation; Logical operations -- Decision making;
+MIPS addressing.
  
- 
+{{{unit}}}
+| UNIT II | ALU DESIGN | 9 |
+Addition and subtraction; Multiplication; Division; Floating Point
+Representation: Floating point operations; Sub word parallelism.
 
 {{{unit}}}
-|UNIT II|ALU DESIGN |9| 
-Addition and subtraction; Multiplication; Division; Floating Point Representation: Floating point operations; Sub word parallelism. 
-
-
-{{{unit}}}
-|UNIT III| PROCESSOR AND CONTROL UNIT  |9| 
-A Basic MIPS implementation: Building a data path – Control implementation scheme; Pipelining: Pipelined data path and control -- Handling structural data ,Control  hazards -- Exceptions -- Issues in predictive branching: Spectre and Meltdown. 
+| UNIT III | PROCESSOR AND CONTROL UNIT | 9 |
+A Basic MIPS implementation: Building a data path -- Control
+implementation scheme; Pipelining: Pipelined data path and control --
+Handling structural data, Control hazards -- Exceptions -- Issues in
+predictive branching: Spectre and Meltdown.
 
 {{{unit}}}
-|UNIT IV|MEMORY & I/O SYSTEMS  |9| 
-Memory Hierarchy; Memory technologies; Cache Memory: Measuring and improving cache performance; Virtual Memory: TLBs; Accessing I/O devices -- Interrupts; Direct memory access; Bus structure – Bus operation -- Arbitration; Interface circuits; USB.
+| UNIT IV | MEMORY & I/O SYSTEMS | 9 |
+Memory Hierarchy; Memory technologies; Cache Memory: Measuring and
+improving cache performance; Virtual Memory: TLBs; Accessing I/O
+devices -- Interrupts; Direct memory access; Bus structure – Bus
+operation -- Arbitration; Interface circuits; USB.
 
 {{{unit}}}
-|UNIT V|PARALLEL PROCESSORS 	 |9| 
-Parallel processing challenges; Flynn's classification: SISD – MIMD -- SIMD -- SPMD and Vector Architectures; Hardware multithreading; Multi-core processors and other shared memory multiprocessors; Introduction to Graphics Processing Units.
+| UNIT V | PARALLEL PROCESSORS 	 | 9 |
+Parallel processing challenges; Flynn's classification: SISD -- MIMD
+-- SIMD -- SPMD and Vector Architectures; Hardware multithreading;
+Multi-core processors and other shared memory multiprocessors;
+Introduction to Graphics Processing Units.
 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to:
-- Understand the basics structure of computers, operations and instructions (K2) 
+- Understand the basics structure of computers, operations and
+  instructions (K2)
 - Design arithmetic and logic unit (K3) 
 - Understand pipelined execution and design control unit (K3) 
-- Design various memory systems and understand I/O communication (K3) 
+- Design various memory systems and understand I/O communication (K3)
 - Understand parallel processing architectures (K2)
 
 
 ** TEXT BOOKS
-1. David A Patterson, John L Hennessy, “Computer Organization and Design: The Hardware/Software Interface”, 5th Edition, Morgan Kaufmann/ Elsevier, 2014. (Unit I, III, V) 
-2. Carl Hamacher, Zvonko Vranesic, Safwat Zaky, Naraig Manjikian, “Computer Organization and Embedded Systems”, 6th Edition, Tata McGraw Hill, 2012 (Unit I, II, IV)
+1. David A Patterson, John L Hennessy, ``Computer Organization and
+   Design: The Hardware/Software Interface'', 5th Edition, Morgan
+   Kaufmann/ Elsevier, 2014. (Unit I, III, V)
+2. Carl Hamacher, Zvonko Vranesic, Safwat Zaky, Naraig Manjikian,
+   ``Computer Organization and Embedded Systems'', 6th Edition, Tata
+   McGraw Hill, 2012 (Unit I, II, IV)
 
  
 ** REFERENCES
-1. William Stallings, “Computer Organization and Architecture – Designing for Performance”, 8th Edition, Pearson Education, 2010. 
-2. John P Hayes, “Computer Architecture and Organization”, 3rd Edition, Tata Mc Graw Hill, 2012.
-3. John L Hennessey, David A Patterson, “Architecture – A Quantitative Approach”, 5th edition, Morgan    
-   Kaufmann / Elsevier, 2012.  
-4. MorrisManoM, “Computer System Architecture”, Revised3rd Edition, Pearson Publication, 2017. 
-5. Chakraborty P, “Computer Architecture and Organization”, JAICO Publishing House, 2010.
+1. William Stallings, ``Computer Organization and Architecture --
+   Designing for Performance'', 8th Edition, Pearson Education, 2010.
+2. John P Hayes, ``Computer Architecture and Organization'', 3rd
+   Edition, Tata Mc Graw Hill, 2012.
+3. John L Hennessey, David A Patterson, ``Architecture -- A
+   Quantitative Approach'', 5th edition, Morgan Kaufmann /
+   Elsevier, 2012.
+4. Morris Mano M, ``Computer System Architecture'', Revised 3rd Edition, Pearson Publication, 2017. 
+5. Chakraborty P, ``Computer Architecture and Organization'', JAICO
+   Publishing House, 2010.
 
